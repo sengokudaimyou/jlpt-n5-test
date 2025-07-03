@@ -1,339 +1,15 @@
 [
   {
     "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ます",
-      "ました",
-      "ませんでした",
-      "ません"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "き",
-      "みず",
-      "ひ",
-      "つち"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "に",
-      "の",
-      "へ",
-      "で"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "man",
-      "parent",
-      "woman",
-      "child"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ました",
-      "ます",
-      "ません",
-      "いきませんでした"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "よく",
-      "よかった",
-      "よい",
-      "いい"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ません",
-      "ます",
-      "ました",
-      "いきませんでした"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふるでしょう",
-      "ふって",
-      "ふります",
-      "ふるです"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "ので",
-      "から",
-      "でも",
-      "のに"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずけい",
-      "しずかに",
-      "しずか",
-      "しずかな"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いくまで",
-      "いくと",
-      "いったら",
-      "いきながら"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "child",
-      "woman",
-      "parent",
-      "man"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いきましょう",
-      "いかない",
-      "いきたい",
-      "いきません"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "から",
-      "でも",
-      "のに",
-      "ので"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "き",
-      "みず",
-      "ひ",
-      "つち"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
     "question": "きのう ともだち__あいました。",
     "options": [
       "に",
-      "と",
       "で",
+      "と",
       "を"
     ],
     "answer": "に",
     "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ます",
-      "ませんでした",
-      "ません",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "かね",
-      "つち",
-      "みず",
-      "き"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ません",
-      "ました",
-      "ませんでした",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いきましょう",
-      "いかない",
-      "いきません",
-      "いきたい"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずかに",
-      "しずけい",
-      "しずか",
-      "しずかな"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずか",
-      "しずかな",
-      "しずけい",
-      "しずかに"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "field",
-      "tree",
-      "river",
-      "mountain"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いったら",
-      "いくまで",
-      "いきながら",
-      "いくと"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ません",
-      "いきませんでした",
-      "ます",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ません",
-      "ませんでした",
-      "ます",
-      "ました"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ません",
-      "ます",
-      "ませんでした",
-      "ました"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "おんな",
-      "こども",
-      "ひと",
-      "おとこ"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
   },
   {
     "type": "jlpt-n5",
@@ -349,999 +25,87 @@
   },
   {
     "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
+    "question": "まいにち ６じに おき___。",
     "options": [
-      "に",
-      "で",
-      "へ",
-      "の"
+      "ませんでした",
+      "ました",
+      "ます",
+      "ません"
     ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
+    "answer": "ます",
+    "explanation": "Non-past polite form."
   },
   {
     "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
+    "question": "きのう えいがを み___。",
     "options": [
-      "き",
-      "つち",
-      "みず",
-      "ひ"
+      "ました",
+      "ます",
+      "ません",
+      "ませんでした"
     ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ます",
+      "いきませんでした",
+      "ません",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ません",
+      "ます",
+      "ませんでした",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
   },
   {
     "type": "jlpt-n5",
     "question": "この りんごは とても___です。",
     "options": [
+      "あまく",
       "あまさ",
-      "あまくない",
-      "あまく",
-      "あまい"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ました",
-      "ません",
-      "いきませんでした",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ました",
-      "ませんでした",
-      "ます",
-      "ません"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "ちち",
-      "おとうと",
-      "はは",
-      "あね"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "に",
-      "と",
-      "で",
-      "を"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "おもい",
-      "たかい",
-      "ちいさい",
-      "かるい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
-    "options": [
-      "school",
-      "student",
-      "study / learn",
-      "letter"
-    ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "おんな",
-      "こども",
-      "おとこ",
-      "ひと"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずかに",
-      "しずかな",
-      "しずけい",
-      "しずか"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふるでしょう",
-      "ふって",
-      "ふります",
-      "ふるです"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いきましょう",
-      "いきません",
-      "いきたい",
-      "いかない"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "sun / day",
-      "book",
-      "moon",
-      "fire"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "man",
-      "woman",
-      "child",
-      "parent"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "を",
-      "で",
-      "と",
-      "に"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "おとこ",
-      "おんな",
-      "ひと",
-      "こども"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "ひ",
-      "つち",
-      "みず",
-      "き"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ます",
-      "ません",
-      "ませんでした",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "man",
-      "parent",
-      "woman",
-      "child"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ません",
-      "いきませんでした",
-      "ます",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまくない",
       "あまい",
-      "あまく",
-      "あまさ"
+      "あまくない"
     ],
     "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "で",
-      "を",
-      "に",
-      "と"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ません",
-      "ました",
-      "ます",
-      "いきませんでした"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "man",
-      "woman",
-      "parent",
-      "child"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ます",
-      "ません",
-      "ませんでした",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずかに",
-      "しずか",
-      "しずけい",
-      "しずかな"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ませんでした",
-      "ます",
-      "ません",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "よい",
-      "よく",
-      "よかった",
-      "いい"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "のに",
-      "から",
-      "でも",
-      "ので"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "へ",
-      "で",
-      "に",
-      "の"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "から",
-      "ので",
-      "でも",
-      "のに"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いきましょう",
-      "いきません",
-      "いかない",
-      "いきたい"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "こども",
-      "おんな",
-      "ひと",
-      "おとこ"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ませんでした",
-      "ます",
-      "ません",
-      "ました"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ました",
-      "ません",
-      "ませんでした",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
+    "explanation": "Correct i-adjective form."
   },
   {
     "type": "jlpt-n5",
     "question": "きのうは___ てんき でした。",
     "options": [
       "よかった",
-      "よい",
       "いい",
+      "よい",
       "よく"
     ],
     "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ませんでした",
-      "ます",
-      "ません",
-      "ました"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ません",
-      "ました",
-      "ます",
-      "ませんでした"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずかに",
-      "しずかな",
-      "しずけい",
-      "しずか"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "で",
-      "に",
-      "を",
-      "と"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "おとこ",
-      "こども",
-      "おんな",
-      "ひと"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまさ",
-      "あまく",
-      "あまくない",
-      "あまい"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "book",
-      "sun / day",
-      "moon",
-      "fire"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ません",
-      "ます",
-      "ました",
-      "ませんでした"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずか",
-      "しずけい",
-      "しずかに",
-      "しずかな"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "かね",
-      "みず",
-      "つち",
-      "き"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ません",
-      "ます",
-      "ませんでした",
-      "ました"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "ちち",
-      "おとうと",
-      "あね",
-      "はは"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "ひと",
-      "おんな",
-      "おとこ",
-      "こども"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ました",
-      "ません",
-      "いきませんでした",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
+    "explanation": "'いい' used with 'てんき'."
   },
   {
     "type": "jlpt-n5",
     "question": "このかばんは とても___ですね。",
     "options": [
-      "ちいさい",
-      "かるい",
       "おもい",
+      "かるい",
+      "ちいさい",
       "たかい"
     ],
     "answer": "おもい",
     "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いくと",
-      "いったら",
-      "いきながら",
-      "いくまで"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "のに",
-      "から",
-      "ので",
-      "でも"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "かるい",
-      "ちいさい",
-      "たかい",
-      "おもい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "を",
-      "と",
-      "で",
-      "に"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "あね",
-      "おとうと",
-      "ちち",
-      "はは"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "おんな",
-      "ひと",
-      "おとこ",
-      "こども"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "へ",
-      "に",
-      "の",
-      "で"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまさ",
-      "あまく",
-      "あまくない",
-      "あまい"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
-    "options": [
-      "study / learn",
-      "school",
-      "letter",
-      "student"
-    ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふります",
-      "ふるです",
-      "ふるでしょう",
-      "ふって"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ませんでした",
-      "ます",
-      "ました",
-      "ません"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまさ",
-      "あまい",
-      "あまく",
-      "あまくない"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "へ",
-      "で",
-      "に",
-      "の"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "つち",
-      "き",
-      "みず",
-      "かね"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "ので",
-      "から",
-      "でも",
-      "のに"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "つち",
-      "き",
-      "ひ",
-      "みず"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いかない",
-      "いきません",
-      "いきたい",
-      "いきましょう"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ます",
-      "ませんでした",
-      "ました",
-      "ません"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "mountain",
-      "tree",
-      "river",
-      "field"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "と",
-      "で",
-      "に",
-      "を"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "おとうと",
-      "ちち",
-      "はは",
-      "あね"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふります",
-      "ふって",
-      "ふるです",
-      "ふるでしょう"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "つち",
-      "みず",
-      "かね",
-      "き"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふります",
-      "ふるです",
-      "ふって",
-      "ふるでしょう"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "river",
-      "field",
-      "mountain",
-      "tree"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ませんでした",
-      "ました",
-      "ません",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "ちち",
-      "はは",
-      "おとうと",
-      "あね"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふって",
-      "ふるです",
-      "ふります",
-      "ふるでしょう"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "に",
-      "を",
-      "と",
-      "で"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ません",
-      "ました",
-      "いきませんでした",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ます",
-      "ません",
-      "ませんでした",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
   },
   {
     "type": "jlpt-n5",
@@ -1353,811 +117,91 @@
       "しずけい"
     ],
     "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "で",
-      "と",
-      "に",
-      "を"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "child",
-      "man",
-      "woman",
-      "parent"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
-    "options": [
-      "school",
-      "study / learn",
-      "letter",
-      "student"
-    ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ます",
-      "いきませんでした",
-      "ました",
-      "ません"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "はは",
-      "ちち",
-      "あね",
-      "おとうと"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
+    "explanation": "Correct na-adjective form."
   },
   {
     "type": "jlpt-n5",
     "question": "にほんへ___、すしをたべたいです。",
     "options": [
-      "いきながら",
-      "いくまで",
       "いくと",
-      "いったら"
+      "いきながら",
+      "いったら",
+      "いくまで"
     ],
     "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
+    "explanation": "'〜たら' is conditional."
   },
   {
     "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
+    "question": "いっしょに こうえんへ___か。",
     "options": [
-      "いきながら",
-      "いくまで",
-      "いったら",
-      "いくと"
+      "いきたい",
+      "いかない",
+      "いきましょう",
+      "いきません"
     ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふって",
+      "ふるです",
+      "ふるでしょう",
+      "ふります"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "ので",
+      "のに",
+      "でも"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "field",
+      "river",
+      "tree",
+      "mountain"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "book",
+      "moon",
+      "fire"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
   },
   {
     "type": "jlpt-n5",
     "question": "What is the meaning of the kanji '男'?",
     "options": [
-      "man",
       "woman",
+      "man",
       "parent",
       "child"
     ],
     "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "かるい",
-      "ちいさい",
-      "たかい",
-      "おもい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いくと",
-      "いくまで",
-      "いったら",
-      "いきながら"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "かね",
-      "き",
-      "つち",
-      "みず"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "おんな",
-      "おとこ",
-      "ひと",
-      "こども"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "みず",
-      "き",
-      "つち",
-      "かね"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずかな",
-      "しずけい",
-      "しずかに",
-      "しずか"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いったら",
-      "いくまで",
-      "いきながら",
-      "いくと"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "ちち",
-      "おとうと",
-      "あね",
-      "はは"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずかな",
-      "しずけい",
-      "しずか",
-      "しずかに"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ます",
-      "ませんでした",
-      "ません",
-      "ました"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "かるい",
-      "ちいさい",
-      "おもい",
-      "たかい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "ちいさい",
-      "たかい",
-      "かるい",
-      "おもい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ません",
-      "いきませんでした",
-      "ます",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "ひ",
-      "つち",
-      "き",
-      "みず"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "かるい",
-      "ちいさい",
-      "おもい",
-      "たかい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "に",
-      "と",
-      "で",
-      "を"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "moon",
-      "book",
-      "sun / day",
-      "fire"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまい",
-      "あまく",
-      "あまくない",
-      "あまさ"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ます",
-      "ませんでした",
-      "ました",
-      "ません"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
-    "options": [
-      "letter",
-      "study / learn",
-      "student",
-      "school"
-    ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ません",
-      "ませんでした",
-      "ます",
-      "ました"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "river",
-      "tree",
-      "field",
-      "mountain"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "あね",
-      "おとうと",
-      "ちち",
-      "はは"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ました",
-      "ませんでした",
-      "ます",
-      "ません"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "tree",
-      "river",
-      "mountain",
-      "field"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "おもい",
-      "たかい",
-      "ちいさい",
-      "かるい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "き",
-      "つち",
-      "みず",
-      "かね"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまさ",
-      "あまく",
-      "あまくない",
-      "あまい"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ます",
-      "ません",
-      "いきませんでした",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
-    "options": [
-      "student",
-      "study / learn",
-      "school",
-      "letter"
-    ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "book",
-      "moon",
-      "sun / day",
-      "fire"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ます",
-      "ました",
-      "ません",
-      "いきませんでした"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "ので",
-      "でも",
-      "のに",
-      "から"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "いい",
-      "よく",
-      "よい",
-      "よかった"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "き",
-      "つち",
-      "みず",
-      "かね"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "よかった",
-      "いい",
-      "よく",
-      "よい"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "ちち",
-      "はは",
-      "あね",
-      "おとうと"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "こども",
-      "おとこ",
-      "ひと",
-      "おんな"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "と",
-      "で",
-      "を",
-      "に"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "いい",
-      "よい",
-      "よく",
-      "よかった"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
-    "options": [
-      "school",
-      "student",
-      "letter",
-      "study / learn"
-    ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "child",
-      "woman",
-      "parent",
-      "man"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふるでしょう",
-      "ふるです",
-      "ふります",
-      "ふって"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "よく",
-      "よい",
-      "よかった",
-      "いい"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "tree",
-      "field",
-      "river",
-      "mountain"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ます",
-      "ません",
-      "ました",
-      "ませんでした"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "sun / day",
-      "book",
-      "fire",
-      "moon"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふるでしょう",
-      "ふるです",
-      "ふって",
-      "ふります"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ます",
-      "ました",
-      "ません",
-      "ませんでした"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いったら",
-      "いきながら",
-      "いくまで",
-      "いくと"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ました",
-      "ます",
-      "ませんでした",
-      "ません"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "き",
-      "みず",
-      "かね",
-      "つち"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "いい",
-      "よい",
-      "よかった",
-      "よく"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "き",
-      "つち",
-      "みず",
-      "ひ"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずかに",
-      "しずけい",
-      "しずかな",
-      "しずか"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまく",
-      "あまさ",
-      "あまい",
-      "あまくない"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふるでしょう",
-      "ふって",
-      "ふるです",
-      "ふります"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "たかい",
-      "かるい",
-      "おもい",
-      "ちいさい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "sun / day",
-      "book",
-      "moon",
-      "fire"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
+    "explanation": "'男' means man."
   },
   {
     "type": "jlpt-n5",
@@ -2169,907 +213,43 @@
       "student"
     ],
     "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "tree",
-      "river",
-      "mountain",
-      "field"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "かね",
-      "つち",
-      "き",
-      "みず"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
+    "explanation": "'学' means study."
   },
   {
     "type": "jlpt-n5",
     "question": "How do you read the kanji '水'?",
     "options": [
-      "つち",
       "ひ",
       "みず",
+      "つち",
       "き"
     ],
     "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いきません",
-      "いかない",
-      "いきたい",
-      "いきましょう"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "から",
-      "ので",
-      "のに",
-      "でも"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "の",
-      "で",
-      "へ",
-      "に"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずか",
-      "しずかな",
-      "しずけい",
-      "しずかに"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いかない",
-      "いきたい",
-      "いきません",
-      "いきましょう"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ませんでした",
-      "ました",
-      "ます",
-      "ません"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまい",
-      "あまく",
-      "あまさ",
-      "あまくない"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "たかい",
-      "おもい",
-      "かるい",
-      "ちいさい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "き",
-      "つち",
-      "みず",
-      "かね"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "field",
-      "mountain",
-      "tree",
-      "river"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "かるい",
-      "おもい",
-      "ちいさい",
-      "たかい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "つち",
-      "みず",
-      "き",
-      "かね"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふります",
-      "ふるでしょう",
-      "ふって",
-      "ふるです"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "fire",
-      "sun / day",
-      "moon",
-      "book"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "を",
-      "に",
-      "と",
-      "で"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "よい",
-      "よかった",
-      "よく",
-      "いい"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまくない",
-      "あまさ",
-      "あまい",
-      "あまく"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
-    "options": [
-      "study / learn",
-      "student",
-      "letter",
-      "school"
-    ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "あね",
-      "はは",
-      "おとうと",
-      "ちち"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いかない",
-      "いきましょう",
-      "いきたい",
-      "いきません"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "でも",
-      "から",
-      "ので",
-      "のに"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いくと",
-      "いきながら",
-      "いったら",
-      "いくまで"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いきながら",
-      "いったら",
-      "いくと",
-      "いくまで"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "みず",
-      "ひ",
-      "き",
-      "つち"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ます",
-      "ませんでした",
-      "ました",
-      "ません"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
+    "explanation": "'水' is read as 'みず'."
   },
   {
     "type": "jlpt-n5",
     "question": "How do you read the kanji '人'?",
     "options": [
-      "ひと",
       "おんな",
+      "ひと",
       "こども",
       "おとこ"
     ],
     "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
+    "explanation": "'人' is read as 'ひと'."
   },
   {
     "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
+    "question": "How do you read the kanji '木'?",
     "options": [
-      "ます",
-      "ませんでした",
-      "ません",
-      "ました"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "ました",
-      "いきませんでした",
-      "ません",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "に",
-      "で",
-      "の",
-      "へ"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした でんしゃで いき___。",
-    "options": [
-      "いきませんでした",
-      "ました",
-      "ません",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "Future/present polite form of 'to go'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "こども",
-      "ひと",
-      "おんな",
-      "おとこ"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "sun / day",
-      "book",
-      "fire",
-      "moon"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ます",
-      "ませんでした",
-      "ません",
-      "ました"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "よかった",
-      "よく",
-      "よい",
-      "いい"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "おんな",
-      "こども",
-      "おとこ",
-      "ひと"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "から",
-      "のに",
-      "ので",
-      "でも"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いきながら",
-      "いくまで",
-      "いくと",
-      "いったら"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "ちいさい",
-      "たかい",
-      "おもい",
-      "かるい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "で",
-      "の",
-      "に",
-      "へ"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "book",
-      "fire",
-      "moon",
-      "sun / day"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いったら",
-      "いくと",
-      "いきながら",
-      "いくまで"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "field",
-      "mountain",
-      "tree",
-      "river"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "child",
-      "woman",
-      "man",
-      "parent"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずかな",
-      "しずけい",
-      "しずかに",
-      "しずか"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふるです",
-      "ふるでしょう",
-      "ふります",
-      "ふって"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "ひ",
-      "つち",
-      "みず",
-      "き"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いきたい",
-      "いきましょう",
-      "いかない",
-      "いきません"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
-    "options": [
-      "ませんでした",
-      "ません",
-      "ました",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "ひ",
       "き",
+      "みず",
       "つち",
-      "みず"
+      "かね"
     ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ました",
-      "ません",
-      "ます",
-      "ませんでした"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いきたい",
-      "いかない",
-      "いきません",
-      "いきましょう"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ました",
-      "ます",
-      "ません",
-      "ませんでした"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いきましょう",
-      "いかない",
-      "いきたい",
-      "いきません"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "parent",
-      "child",
-      "man",
-      "woman"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "に",
-      "へ",
-      "の",
-      "で"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "sun / day",
-      "fire",
-      "book",
-      "moon"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまい",
-      "あまく",
-      "あまさ",
-      "あまくない"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あのひとは___ひとです。",
-    "options": [
-      "しずか",
-      "しずかな",
-      "しずけい",
-      "しずかに"
-    ],
-    "answer": "しずかな",
-    "explanation": "'しずかな' is the correct na-adjective form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "mountain",
-      "tree",
-      "river",
-      "field"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ました",
-      "ます",
-      "ません",
-      "ませんでした"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "と",
-      "を",
-      "で",
-      "に"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '男'?",
-    "options": [
-      "woman",
-      "parent",
-      "child",
-      "man"
-    ],
-    "answer": "man",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "から",
-      "でも",
-      "のに",
-      "ので"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "おもい",
-      "たかい",
-      "かるい",
-      "ちいさい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
-      "ませんでした",
-      "ません",
-      "ました",
-      "ます"
-    ],
-    "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "tree",
-      "mountain",
-      "river",
-      "field"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いったら",
-      "いくと",
-      "いくまで",
-      "いきながら"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう えいがを み___。",
-    "options": [
-      "ませんでした",
-      "ません",
-      "ます",
-      "ました"
-    ],
-    "answer": "ました",
-    "explanation": "'ました' is past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "の",
-      "に",
-      "で",
-      "へ"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '母'?",
-    "options": [
-      "おとうと",
-      "あね",
-      "ちち",
-      "はは"
-    ],
-    "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "でも",
-      "から",
-      "のに",
-      "ので"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "mountain",
-      "tree",
-      "field",
-      "river"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
   },
   {
     "type": "jlpt-n5",
@@ -3081,31 +261,199 @@
       "あね"
     ],
     "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "と",
+      "に",
+      "で",
+      "を"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "へ",
+      "に",
+      "で",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ません",
+      "ました",
+      "ませんでした",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ませんでした",
+      "ません",
+      "ます",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ます",
+      "いきませんでした",
+      "ました",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ました",
+      "ません",
+      "ます",
+      "ませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまく",
+      "あまさ",
+      "あまくない",
+      "あまい"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
   },
   {
     "type": "jlpt-n5",
     "question": "きのうは___ てんき でした。",
     "options": [
-      "よい",
+      "よかった",
       "いい",
-      "よく",
-      "よかった"
+      "よい",
+      "よく"
     ],
     "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "ちいさい",
+      "かるい",
+      "たかい",
+      "おもい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずけい",
+      "しずかに",
+      "しずかな",
+      "しずか"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いきながら",
+      "いくと",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
   },
   {
     "type": "jlpt-n5",
     "question": "いっしょに こうえんへ___か。",
     "options": [
       "いかない",
+      "いきましょう",
       "いきたい",
-      "いきません",
-      "いきましょう"
+      "いきません"
     ],
     "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふって",
+      "ふります",
+      "ふるです",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "でも",
+      "ので",
+      "のに"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "river",
+      "tree",
+      "field",
+      "mountain"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "book",
+      "fire",
+      "moon",
+      "sun / day"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
   },
   {
     "type": "jlpt-n5",
@@ -3117,7 +465,211 @@
       "man"
     ],
     "answer": "man",
-    "explanation": "'男' means 'man'."
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "student",
+      "letter",
+      "study / learn"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "つち",
+      "ひ",
+      "みず",
+      "き"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "ひと",
+      "こども",
+      "おとこ"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "き",
+      "かね",
+      "つち",
+      "みず"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "はは",
+      "あね",
+      "おとうと",
+      "ちち"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "を",
+      "で",
+      "と",
+      "に"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "に",
+      "の",
+      "で",
+      "へ"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ます",
+      "ませんでした",
+      "ました",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ませんでした",
+      "ません",
+      "ました",
+      "ます"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ません",
+      "いきませんでした",
+      "ました",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ます",
+      "ました",
+      "ませんでした",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
+      "あまく",
+      "あまくない",
+      "あまさ"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よく",
+      "よい",
+      "いい",
+      "よかった"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "たかい",
+      "かるい",
+      "おもい",
+      "ちいさい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずけい",
+      "しずかに",
+      "しずかな"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いくまで",
+      "いくと",
+      "いったら",
+      "いきながら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきましょう",
+      "いきません",
+      "いきたい",
+      "いかない"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
   },
   {
     "type": "jlpt-n5",
@@ -3129,211 +681,31 @@
       "ふります"
     ],
     "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '人'?",
-    "options": [
-      "おとこ",
-      "ひと",
-      "こども",
-      "おんな"
-    ],
-    "answer": "ひと",
-    "explanation": "'人' is read as 'ひと' (person)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "このかばんは とても___ですね。",
-    "options": [
-      "かるい",
-      "ちいさい",
-      "おもい",
-      "たかい"
-    ],
-    "answer": "おもい",
-    "explanation": "'おもい' means heavy."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんへ___、すしをたべたいです。",
-    "options": [
-      "いくまで",
-      "いきながら",
-      "いったら",
-      "いくと"
-    ],
-    "answer": "いったら",
-    "explanation": "'〜たら' is used for conditional meaning."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "いい",
-      "よかった",
-      "よい",
-      "よく"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
+    "explanation": "Indicates probability."
   },
   {
     "type": "jlpt-n5",
     "question": "かぜをひいた___、がっこうをやすみました。",
     "options": [
-      "でも",
-      "のに",
-      "から",
-      "ので"
-    ],
-    "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "き",
-      "つち",
-      "ひ",
-      "みず"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのう ともだち__あいました。",
-    "options": [
-      "に",
-      "で",
-      "を",
-      "と"
-    ],
-    "answer": "に",
-    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
-    "options": [
-      "letter",
-      "school",
-      "student",
-      "study / learn"
-    ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふります",
-      "ふって",
-      "ふるです",
-      "ふるでしょう"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '水'?",
-    "options": [
-      "ひ",
-      "みず",
-      "つち",
-      "き"
-    ],
-    "answer": "みず",
-    "explanation": "'水' is read as 'みず' (water)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '日'?",
-    "options": [
-      "fire",
-      "sun / day",
-      "book",
-      "moon"
-    ],
-    "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
-    "options": [
-      "student",
-      "school",
-      "letter",
-      "study / learn"
-    ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
-    "options": [
-      "いきません",
-      "いきたい",
-      "いかない",
-      "いきましょう"
-    ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "あした あめが___。",
-    "options": [
-      "ふるでしょう",
-      "ふります",
-      "ふって",
-      "ふるです"
-    ],
-    "answer": "ふるでしょう",
-    "explanation": "'でしょう' indicates probability."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "How do you read the kanji '木'?",
-    "options": [
-      "かね",
-      "みず",
-      "つち",
-      "き"
-    ],
-    "answer": "き",
-    "explanation": "'木' is read as 'き' (tree)."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
-    "options": [
-      "よかった",
-      "よく",
-      "よい",
-      "いい"
-    ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "かぜをひいた___、がっこうをやすみました。",
-    "options": [
-      "から",
       "ので",
       "でも",
+      "から",
       "のに"
     ],
     "answer": "ので",
-    "explanation": "'ので' gives reason/polite explanation."
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "field",
+      "tree",
+      "mountain",
+      "river"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
   },
   {
     "type": "jlpt-n5",
@@ -3345,16 +717,100 @@
       "book"
     ],
     "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "child",
+      "woman",
+      "parent",
+      "man"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "student",
+      "study / learn",
+      "letter"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "みず",
+      "き",
+      "つち",
+      "ひ"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "こども",
+      "ひと",
+      "おんな",
+      "おとこ"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "き",
+      "つち",
+      "かね",
+      "みず"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "あね",
+      "はは",
+      "おとうと",
+      "ちち"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "で",
+      "を",
+      "に",
+      "と"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
     "type": "jlpt-n5",
     "question": "きょうしつ__なかに がくせいがいます。",
     "options": [
-      "の",
-      "へ",
       "に",
-      "で"
+      "へ",
+      "で",
+      "の"
     ],
     "answer": "の",
     "explanation": "'の' indicates possession or location relation."
@@ -3365,59 +821,35 @@
     "options": [
       "ます",
       "ません",
-      "ました",
-      "ませんでした"
-    ],
-    "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "きょうしつ__なかに がくせいがいます。",
-    "options": [
-      "の",
-      "で",
-      "に",
-      "へ"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession or location relation."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "にほんごを はなし___か。",
-    "options": [
       "ませんでした",
-      "ません",
-      "ました",
-      "ます"
+      "ました"
     ],
     "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
+    "explanation": "Non-past polite form."
   },
   {
     "type": "jlpt-n5",
-    "question": "いっしょに こうえんへ___か。",
+    "question": "きのう えいがを み___。",
     "options": [
-      "いきましょう",
-      "いきません",
-      "いかない",
-      "いきたい"
+      "ません",
+      "ます",
+      "ませんでした",
+      "ました"
     ],
-    "answer": "いきません",
-    "explanation": "'〜ませんか' is used for invitations."
+    "answer": "ました",
+    "explanation": "Past polite form."
   },
   {
     "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '学'?",
+    "question": "あした でんしゃで いき___。",
     "options": [
-      "school",
-      "study / learn",
-      "student",
-      "letter"
+      "ます",
+      "ました",
+      "いきませんでした",
+      "ません"
     ],
-    "answer": "study / learn",
-    "explanation": "'学' means 'study'."
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
   },
   {
     "type": "jlpt-n5",
@@ -3429,7 +861,187 @@
       "ません"
     ],
     "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
+      "あまく",
+      "あまさ",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よく",
+      "よい",
+      "よかった",
+      "いい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "おもい",
+      "たかい",
+      "ちいさい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずけい",
+      "しずかに",
+      "しずかな"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いきながら",
+      "いくと",
+      "いったら",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきましょう",
+      "いきません",
+      "いきたい",
+      "いかない"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふって",
+      "ふります",
+      "ふるです",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "ので",
+      "でも",
+      "のに"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "field",
+      "mountain",
+      "river",
+      "tree"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "book",
+      "moon",
+      "fire",
+      "sun / day"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "man",
+      "woman",
+      "parent",
+      "child"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "study / learn",
+      "school",
+      "student",
+      "letter"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "き",
+      "ひ",
+      "つち",
+      "みず"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "こども",
+      "おとこ",
+      "ひと",
+      "おんな"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "つち",
+      "みず",
+      "き",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
   },
   {
     "type": "jlpt-n5",
@@ -3437,107 +1049,335 @@
     "options": [
       "おとうと",
       "ちち",
-      "あね",
-      "はは"
+      "はは",
+      "あね"
     ],
     "answer": "はは",
-    "explanation": "'母' is read as 'はは' (mother)."
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "に",
+      "を",
+      "で",
+      "と"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
     "type": "jlpt-n5",
     "question": "きょうしつ__なかに がくせいがいます。",
     "options": [
+      "で",
       "に",
       "へ",
-      "の",
-      "で"
+      "の"
     ],
     "answer": "の",
     "explanation": "'の' indicates possession or location relation."
   },
   {
     "type": "jlpt-n5",
-    "question": "きのうは___ てんき でした。",
+    "question": "まいにち ６じに おき___。",
     "options": [
-      "よい",
-      "よく",
-      "いい",
-      "よかった"
+      "ません",
+      "ませんでした",
+      "ました",
+      "ます"
     ],
-    "answer": "いい",
-    "explanation": "'いい' is used before 'てんき でした'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまい",
-      "あまさ",
-      "あまく",
-      "あまくない"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "What is the meaning of the kanji '山'?",
-    "options": [
-      "mountain",
-      "tree",
-      "field",
-      "river"
-    ],
-    "answer": "mountain",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "jlpt-n5",
-    "question": "この りんごは とても___です。",
-    "options": [
-      "あまさ",
-      "あまく",
-      "あまい",
-      "あまくない"
-    ],
-    "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+    "answer": "ます",
+    "explanation": "Non-past polite form."
   },
   {
     "type": "jlpt-n5",
     "question": "きのう えいがを み___。",
     "options": [
-      "ませんでした",
-      "ました",
       "ません",
-      "ます"
+      "ました",
+      "ます",
+      "ませんでした"
     ],
     "answer": "ました",
-    "explanation": "'ました' is past polite form."
+    "explanation": "Past polite form."
   },
   {
     "type": "jlpt-n5",
-    "question": "まいにち ６じに おき___。",
+    "question": "あした でんしゃで いき___。",
     "options": [
+      "ません",
+      "ました",
       "ます",
+      "いきませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
       "ました",
       "ません",
+      "ます",
       "ませんでした"
     ],
     "answer": "ます",
-    "explanation": "'ます' is non-past polite form."
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
+      "あまく",
+      "あまさ",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よかった",
+      "いい",
+      "よく",
+      "よい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "おもい",
+      "かるい",
+      "ちいさい",
+      "たかい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずかな",
+      "しずか",
+      "しずけい",
+      "しずかに"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いきながら",
+      "いくと",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきません",
+      "いかない",
+      "いきたい",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふるでしょう",
+      "ふるです",
+      "ふって"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "ので",
+      "でも",
+      "のに",
+      "から"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "tree",
+      "mountain",
+      "field",
+      "river"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "book",
+      "sun / day",
+      "moon",
+      "fire"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "man",
+      "woman",
+      "child",
+      "parent"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
   },
   {
     "type": "jlpt-n5",
     "question": "What is the meaning of the kanji '学'?",
     "options": [
-      "school",
       "student",
+      "school",
       "study / learn",
       "letter"
     ],
     "answer": "study / learn",
-    "explanation": "'学' means 'study'."
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "つち",
+      "みず",
+      "ひ",
+      "き"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "おとこ",
+      "こども",
+      "ひと"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "き",
+      "みず",
+      "つち",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "おとうと",
+      "あね",
+      "はは",
+      "ちち"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "を",
+      "に",
+      "と",
+      "で"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "で",
+      "に",
+      "の",
+      "へ"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ません",
+      "ました",
+      "ませんでした",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ません",
+      "ます",
+      "ませんでした",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ません",
+      "ます",
+      "いきませんでした",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
   },
   {
     "type": "jlpt-n5",
@@ -3549,31 +1389,139 @@
       "ます"
     ],
     "answer": "ます",
-    "explanation": "Question with polite form of 'speak'."
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまさ",
+      "あまくない",
+      "あまく",
+      "あまい"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よく",
+      "いい",
+      "よい",
+      "よかった"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "おもい",
+      "ちいさい",
+      "たかい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずけい",
+      "しずかに",
+      "しずか",
+      "しずかな"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いくまで",
+      "いくと",
+      "いきながら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきたい",
+      "いかない",
+      "いきましょう",
+      "いきません"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふって",
+      "ふるでしょう",
+      "ふるです"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "ので",
+      "から",
+      "のに",
+      "でも"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "river",
+      "mountain",
+      "tree",
+      "field"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
   },
   {
     "type": "jlpt-n5",
     "question": "What is the meaning of the kanji '日'?",
     "options": [
-      "book",
-      "sun / day",
       "fire",
-      "moon"
+      "moon",
+      "book",
+      "sun / day"
     ],
     "answer": "sun / day",
-    "explanation": "'日' means 'sun' or 'day'."
+    "explanation": "'日' means sun or day."
   },
   {
     "type": "jlpt-n5",
     "question": "What is the meaning of the kanji '男'?",
     "options": [
-      "woman",
+      "child",
       "parent",
       "man",
-      "child"
+      "woman"
     ],
     "answer": "man",
-    "explanation": "'男' means 'man'."
+    "explanation": "'男' means man."
   },
   {
     "type": "jlpt-n5",
@@ -3581,22 +1529,2074 @@
     "options": [
       "study / learn",
       "letter",
-      "student",
-      "school"
+      "school",
+      "student"
     ],
     "answer": "study / learn",
-    "explanation": "'学' means 'study'."
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "ひ",
+      "つち",
+      "みず",
+      "き"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "こども",
+      "おんな",
+      "おとこ",
+      "ひと"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "みず",
+      "き",
+      "かね",
+      "つち"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "ちち",
+      "あね",
+      "はは",
+      "おとうと"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "を",
+      "と",
+      "に",
+      "で"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "へ",
+      "で",
+      "に",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ました",
+      "ません",
+      "ます",
+      "ませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ませんでした",
+      "ません",
+      "ます",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ました",
+      "いきませんでした",
+      "ます",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ませんでした",
+      "ました",
+      "ません",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
   },
   {
     "type": "jlpt-n5",
     "question": "この りんごは とても___です。",
     "options": [
+      "あまく",
+      "あまくない",
+      "あまい",
+      "あまさ"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よい",
+      "よく",
+      "いい",
+      "よかった"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "たかい",
+      "おもい",
+      "ちいさい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずけい",
+      "しずか",
+      "しずかな",
+      "しずかに"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いくと",
+      "いきながら",
+      "いくまで",
+      "いったら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきません",
+      "いきたい",
+      "いきましょう",
+      "いかない"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふって",
+      "ふるです",
+      "ふります",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "ので",
+      "でも",
+      "のに",
+      "から"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "field",
+      "tree",
+      "river",
+      "mountain"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "fire",
+      "sun / day",
+      "book",
+      "moon"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "woman",
+      "child",
+      "man",
+      "parent"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "study / learn",
+      "school",
+      "letter",
+      "student"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "つち",
+      "ひ",
+      "みず",
+      "き"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おとこ",
+      "ひと",
+      "こども",
+      "おんな"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "つち",
+      "かね",
+      "き",
+      "みず"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "おとうと",
+      "はは",
+      "ちち",
+      "あね"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "を",
+      "と",
+      "で",
+      "に"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "で",
+      "へ",
+      "の",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ません",
+      "ませんでした",
+      "ます",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ませんでした",
+      "ました",
+      "ません",
+      "ます"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ません",
+      "ました",
+      "ます",
+      "いきませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ました",
+      "ません",
+      "ます",
+      "ませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
+      "あまさ",
+      "あまくない",
+      "あまく"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よかった",
+      "いい",
+      "よい",
+      "よく"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "ちいさい",
+      "たかい",
+      "おもい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずかに",
+      "しずけい",
+      "しずかな"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いくまで",
+      "いくと",
+      "いきながら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いかない",
+      "いきたい",
+      "いきません",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふって",
+      "ふります",
+      "ふるでしょう",
+      "ふるです"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "のに",
+      "ので",
+      "でも"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "field",
+      "tree",
+      "mountain",
+      "river"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "book",
+      "moon",
+      "fire",
+      "sun / day"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "child",
+      "woman",
+      "parent",
+      "man"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "student",
+      "study / learn",
+      "letter"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "みず",
+      "ひ",
+      "き",
+      "つち"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "おとこ",
+      "ひと",
+      "こども"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "つち",
+      "みず",
+      "き",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "ちち",
+      "はは",
+      "おとうと",
+      "あね"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "に",
+      "を",
+      "で",
+      "と"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "へ",
+      "の",
+      "で",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ませんでした",
+      "ました",
+      "ます",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ました",
+      "ます",
+      "ません",
+      "ませんでした"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "いきませんでした",
+      "ません",
+      "ます",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ませんでした",
+      "ません",
+      "ます",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
       "あまくない",
       "あまく",
+      "あまさ"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よかった",
+      "よい",
+      "いい",
+      "よく"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "おもい",
+      "ちいさい",
+      "たかい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずけい",
+      "しずかな",
+      "しずかに"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いきながら",
+      "いくまで",
+      "いくと",
+      "いったら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきたい",
+      "いきません",
+      "いかない",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふるです",
+      "ふって",
+      "ふります",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "でも",
+      "のに",
+      "ので"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "tree",
+      "field",
+      "mountain",
+      "river"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "fire",
+      "book",
+      "moon"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "man",
+      "woman",
+      "parent",
+      "child"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "letter",
+      "student",
+      "study / learn",
+      "school"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "き",
+      "ひ",
+      "みず",
+      "つち"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "こども",
+      "おとこ",
+      "ひと"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "みず",
+      "つち",
+      "かね",
+      "き"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "はは",
+      "ちち",
+      "おとうと",
+      "あね"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "を",
+      "と",
+      "で",
+      "に"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "に",
+      "で",
+      "の",
+      "へ"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ませんでした",
+      "ます",
+      "ません",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ません",
+      "ました",
+      "ます",
+      "ませんでした"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ます",
+      "ました",
+      "ません",
+      "いきませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ます",
+      "ませんでした",
+      "ません",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
       "あまさ",
+      "あまくない",
+      "あまく",
       "あまい"
     ],
     "answer": "あまい",
-    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よかった",
+      "よく",
+      "よい",
+      "いい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "たかい",
+      "ちいさい",
+      "おもい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずかな",
+      "しずかに",
+      "しずけい"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いくと",
+      "いきながら",
+      "いったら",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いかない",
+      "いきません",
+      "いきたい",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふるでしょう",
+      "ふって",
+      "ふるです"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "ので",
+      "のに",
+      "でも",
+      "から"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "tree",
+      "mountain",
+      "river",
+      "field"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "moon",
+      "fire",
+      "book",
+      "sun / day"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "child",
+      "woman",
+      "parent",
+      "man"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "student",
+      "study / learn",
+      "letter"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "き",
+      "ひ",
+      "つち",
+      "みず"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "こども",
+      "ひと",
+      "おとこ",
+      "おんな"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "みず",
+      "つち",
+      "き",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "あね",
+      "はは",
+      "おとうと",
+      "ちち"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "に",
+      "を",
+      "で",
+      "と"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "の",
+      "に",
+      "で",
+      "へ"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ます",
+      "ません",
+      "ませんでした",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ます",
+      "ませんでした",
+      "ません",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "いきませんでした",
+      "ます",
+      "ました",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ません",
+      "ます",
+      "ました",
+      "ませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまく",
+      "あまさ",
+      "あまい",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よい",
+      "よかった",
+      "いい",
+      "よく"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "たかい",
+      "ちいさい",
+      "おもい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずかな",
+      "しずかに",
+      "しずけい"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いきながら",
+      "いくと",
+      "いくまで",
+      "いったら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきましょう",
+      "いきたい",
+      "いきません",
+      "いかない"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふって",
+      "ふるです",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "でも",
+      "のに",
+      "から",
+      "ので"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "river",
+      "tree",
+      "field",
+      "mountain"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "fire",
+      "moon",
+      "book"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "child",
+      "man",
+      "parent",
+      "woman"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "study / learn",
+      "school",
+      "letter",
+      "student"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "ひ",
+      "みず",
+      "き",
+      "つち"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "ひと",
+      "おとこ",
+      "こども",
+      "おんな"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "つち",
+      "かね",
+      "き",
+      "みず"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "ちち",
+      "おとうと",
+      "はは",
+      "あね"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "で",
+      "に",
+      "と",
+      "を"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "で",
+      "に",
+      "の",
+      "へ"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ませんでした",
+      "ません",
+      "ました",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ません",
+      "ました",
+      "ます",
+      "ませんでした"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "いきませんでした",
+      "ます",
+      "ました",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ません",
+      "ませんでした",
+      "ます",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
+      "あまさ",
+      "あまくない",
+      "あまく"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よかった",
+      "よい",
+      "いい",
+      "よく"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "かるい",
+      "たかい",
+      "ちいさい",
+      "おもい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずけい",
+      "しずかに",
+      "しずかな",
+      "しずか"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いくと",
+      "いきながら",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきません",
+      "いきたい",
+      "いきましょう",
+      "いかない"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふるです",
+      "ふって",
+      "ふります",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "ので",
+      "でも",
+      "のに"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "field",
+      "tree",
+      "river",
+      "mountain"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "moon",
+      "fire",
+      "book",
+      "sun / day"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "parent",
+      "child",
+      "woman",
+      "man"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "study / learn",
+      "student",
+      "letter"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "ひ",
+      "みず",
+      "き",
+      "つち"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "おとこ",
+      "こども",
+      "ひと"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "みず",
+      "かね",
+      "き",
+      "つち"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "はは",
+      "ちち",
+      "おとうと",
+      "あね"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "と",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "の",
+      "へ",
+      "に",
+      "で"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ました",
+      "ません",
+      "ます",
+      "ませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ました",
+      "ます",
+      "ません",
+      "ませんでした"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ました",
+      "いきませんでした",
+      "ません",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ました",
+      "ません",
+      "ませんでした",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
+      "あまくない",
+      "あまく",
+      "あまさ"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よかった",
+      "よい",
+      "よく",
+      "いい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "ちいさい",
+      "おもい",
+      "かるい",
+      "たかい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずかな",
+      "しずか",
+      "しずけい",
+      "しずかに"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いくと",
+      "いったら",
+      "いきながら",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いかない",
+      "いきません",
+      "いきたい",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふるです",
+      "ふるでしょう",
+      "ふって"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "のに",
+      "ので",
+      "でも",
+      "から"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "tree",
+      "mountain",
+      "river",
+      "field"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means mountain."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "book",
+      "fire",
+      "moon"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means sun or day."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "parent",
+      "child",
+      "woman",
+      "man"
+    ],
+    "answer": "man",
+    "explanation": "'男' means man."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "letter",
+      "school",
+      "study / learn",
+      "student"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means study."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "みず",
+      "つち",
+      "き",
+      "ひ"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おとこ",
+      "ひと",
+      "こども",
+      "おんな"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "き",
+      "かね",
+      "つち",
+      "みず"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "おとうと",
+      "あね",
+      "ちち",
+      "はは"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "を",
+      "に",
+      "で",
+      "と"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "に",
+      "で",
+      "の",
+      "へ"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ます",
+      "ました",
+      "ませんでした",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ます",
+      "ました",
+      "ません",
+      "ませんでした"
+    ],
+    "answer": "ました",
+    "explanation": "Past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ます",
+      "いきませんでした",
+      "ません",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Future polite form of 'go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ませんでした",
+      "ます",
+      "ません",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Polite question form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまく",
+      "あまい",
+      "あまさ",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "Correct i-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よく",
+      "よかった",
+      "よい",
+      "いい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' used with 'てんき'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "ちいさい",
+      "かるい",
+      "たかい",
+      "おもい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずかに",
+      "しずかな",
+      "しずけい"
+    ],
+    "answer": "しずかな",
+    "explanation": "Correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いきながら",
+      "いくまで",
+      "いくと"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is conditional."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきましょう",
+      "いかない",
+      "いきたい",
+      "いきません"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is for invitation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふるでしょう",
+      "ふるです",
+      "ふって"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "Indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "ので",
+      "のに",
+      "でも"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives polite reason."
   }
 ]

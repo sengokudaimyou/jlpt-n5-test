@@ -6,7 +6,6 @@ let incorrectAnswers = [];
 let timer;
 let timeLeft = 7200; // 2 horas em segundos
 
-// Embaralhamento moderno (Fisher-Yates)
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -20,7 +19,7 @@ function loadQuestions() {
     .then(response => response.json())
     .then(data => {
       const shuffled = shuffle(data);
-      questions = shuffled.slice(0, 200); // Pega as 200 primeiras sem repetição
+      questions = shuffled.slice(0, 200);
       startTimer();
       showQuestion();
     });
