@@ -1,0 +1,62 @@
+[
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "火",
+      "水",
+      "木",
+      "金"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It is one of the five classical elements in Japanese."
+  },
+  {
+    "type": "kanji",
+    "question": "Choose the kanji for 'tree'.",
+    "options": [
+      "水",
+      "木",
+      "土",
+      "金"
+    ],
+    "answer": "木",
+    "explanation": "'木' is the kanji for 'tree' or 'wood'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "を",
+      "に",
+      "が",
+      "で"
+    ],
+    "answer": "に",
+    "explanation": "The particle 'に' is used to indicate destination or direction."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct form: わたしは にほんご__べんきょうします。",
+    "options": [
+      "を",
+      "で",
+      "が",
+      "に"
+    ],
+    "answer": "を",
+    "explanation": "The particle 'を' is used to mark the direct object of the verb 'べんきょうします'."
+  },
+  {
+    "type": "kanji",
+    "question": "Which kanji means 'fire'?",
+    "options": [
+      "水",
+      "金",
+      "火",
+      "木"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. It is a basic N5 kanji."
+  }
+]
