@@ -1,1 +1,0 @@
-# jlpt-n5-test
