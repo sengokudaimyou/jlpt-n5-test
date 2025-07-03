@@ -1,3602 +1,3602 @@
 [
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
     "options": [
-      "が",
-      "で",
-      "を",
-      "に"
+      "ます",
+      "ました",
+      "ませんでした",
+      "ません"
     ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'father'?",
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
     "options": [
-      "父",
-      "母",
-      "弟",
-      "兄"
+      "き",
+      "みず",
+      "ひ",
+      "つち"
     ],
-    "answer": "父",
-    "explanation": "'父' means 'father'."
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
     "options": [
-      "が",
-      "に",
-      "で",
-      "を"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mouth'?",
-    "options": [
-      "耳",
-      "日",
-      "口",
-      "目"
-    ],
-    "answer": "口",
-    "explanation": "'口' means 'mouth'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'hand'?",
-    "options": [
-      "耳",
-      "手",
-      "足",
-      "口"
-    ],
-    "answer": "手",
-    "explanation": "'手' means 'hand'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'fire'?",
-    "options": [
-      "火",
-      "水",
-      "木",
-      "金"
-    ],
-    "answer": "火",
-    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'school'?",
-    "options": [
-      "高",
-      "学",
-      "先",
-      "校"
-    ],
-    "answer": "校",
-    "explanation": "'校' means 'school'. Found in 学校 (school)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'eye'?",
-    "options": [
-      "手",
-      "足",
-      "耳",
-      "目"
-    ],
-    "answer": "目",
-    "explanation": "'目' means 'eye'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'child'?",
-    "options": [
-      "人",
-      "子",
-      "母",
-      "父"
-    ],
-    "answer": "子",
-    "explanation": "'子' means 'child'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'woman'?",
-    "options": [
-      "母",
-      "子",
-      "姉",
-      "女"
-    ],
-    "answer": "女",
-    "explanation": "'女' means 'woman'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mountain'?",
-    "options": [
-      "山",
-      "森",
-      "川",
-      "林"
-    ],
-    "answer": "山",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
-    "options": [
-      "に",
-      "を",
-      "で",
-      "が"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "で",
-      "が",
-      "を",
-      "に"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "が",
-      "の",
-      "に",
-      "を"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "は",
-      "が",
-      "の",
-      "を"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "が",
       "に",
       "の",
-      "を"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'child'?",
-    "options": [
-      "人",
-      "子",
-      "父",
-      "母"
-    ],
-    "answer": "子",
-    "explanation": "'子' means 'child'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "を",
-      "で",
-      "に",
-      "が"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "が",
-      "に",
-      "を",
+      "へ",
       "で"
     ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
     "options": [
-      "に",
-      "が",
-      "で",
-      "を"
+      "man",
+      "parent",
+      "woman",
+      "child"
     ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'child'?",
-    "options": [
-      "人",
-      "母",
-      "父",
-      "子"
-    ],
-    "answer": "子",
-    "explanation": "'子' means 'child'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mouth'?",
-    "options": [
-      "耳",
-      "目",
-      "口",
-      "日"
-    ],
-    "answer": "口",
-    "explanation": "'口' means 'mouth'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
-    "options": [
-      "で",
-      "が",
-      "に",
-      "を"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'tree'?",
-    "options": [
-      "土",
-      "水",
-      "金",
-      "木"
-    ],
-    "answer": "木",
-    "explanation": "'木' means 'tree' or 'wood'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'sun'?",
-    "options": [
-      "日",
-      "水",
-      "火",
-      "月"
-    ],
-    "answer": "日",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'school'?",
-    "options": [
-      "先",
-      "校",
-      "高",
-      "学"
-    ],
-    "answer": "校",
-    "explanation": "'校' means 'school'. Found in 学校 (school)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'man'?",
-    "options": [
-      "女",
-      "男",
-      "父",
-      "兄"
-    ],
-    "answer": "男",
+    "answer": "man",
     "explanation": "'男' means 'man'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'study'?",
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
     "options": [
-      "読",
-      "校",
-      "書",
-      "学"
+      "ました",
+      "ます",
+      "ません",
+      "いきませんでした"
     ],
-    "answer": "学",
-    "explanation": "'学' means 'study' or 'learning'."
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'gold'?",
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
     "options": [
-      "火",
-      "水",
-      "金",
-      "木"
+      "よく",
+      "よかった",
+      "よい",
+      "いい"
     ],
-    "answer": "金",
-    "explanation": "'金' means 'gold' or 'money'."
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'person'?",
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
     "options": [
-      "入",
-      "大",
-      "八",
-      "人"
+      "ません",
+      "ます",
+      "ました",
+      "いきませんでした"
     ],
-    "answer": "人",
-    "explanation": "'人' means 'person'."
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'water'?",
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
     "options": [
-      "水",
-      "火",
-      "金",
-      "木"
+      "ふるでしょう",
+      "ふって",
+      "ふります",
+      "ふるです"
     ],
-    "answer": "水",
-    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "ので",
+      "から",
+      "でも",
+      "のに"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずけい",
+      "しずかに",
+      "しずか",
+      "しずかな"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いくまで",
+      "いくと",
+      "いったら",
+      "いきながら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "child",
+      "woman",
+      "parent",
+      "man"
+    ],
+    "answer": "man",
+    "explanation": "'男' means 'man'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきましょう",
+      "いかない",
+      "いきたい",
+      "いきません"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "でも",
+      "のに",
+      "ので"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "き",
+      "みず",
+      "ひ",
+      "つち"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "に",
+      "と",
+      "で",
+      "を"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ます",
+      "ませんでした",
+      "ません",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "かね",
+      "つち",
+      "みず",
+      "き"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ません",
+      "ました",
+      "ませんでした",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきましょう",
+      "いかない",
+      "いきません",
+      "いきたい"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずかに",
+      "しずけい",
+      "しずか",
+      "しずかな"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずかな",
+      "しずけい",
+      "しずかに"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "field",
+      "tree",
+      "river",
+      "mountain"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いくまで",
+      "いきながら",
+      "いくと"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ません",
+      "いきませんでした",
+      "ます",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ません",
+      "ませんでした",
+      "ます",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ません",
+      "ます",
+      "ませんでした",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "こども",
+      "ひと",
+      "おとこ"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "で",
+      "の",
+      "へ",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
     "options": [
       "に",
       "で",
+      "へ",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "き",
+      "つち",
+      "みず",
+      "ひ"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまさ",
+      "あまくない",
+      "あまく",
+      "あまい"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ました",
+      "ません",
+      "いきませんでした",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ました",
+      "ませんでした",
+      "ます",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "ちち",
+      "おとうと",
+      "はは",
+      "あね"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "に",
+      "と",
+      "で",
+      "を"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "おもい",
+      "たかい",
+      "ちいさい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "student",
+      "study / learn",
+      "letter"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "こども",
+      "おとこ",
+      "ひと"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずかに",
+      "しずかな",
+      "しずけい",
+      "しずか"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふるでしょう",
+      "ふって",
+      "ふります",
+      "ふるです"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきましょう",
+      "いきません",
+      "いきたい",
+      "いかない"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "book",
+      "moon",
+      "fire"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "man",
+      "woman",
+      "child",
+      "parent"
+    ],
+    "answer": "man",
+    "explanation": "'男' means 'man'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
       "を",
-      "が"
+      "で",
+      "と",
+      "に"
     ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'moon'?",
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
     "options": [
-      "土",
-      "金",
-      "月",
-      "火"
+      "おとこ",
+      "おんな",
+      "ひと",
+      "こども"
     ],
-    "answer": "月",
-    "explanation": "'月' means 'moon' or 'month'."
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
     "options": [
+      "ひ",
+      "つち",
+      "みず",
+      "き"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ます",
+      "ません",
+      "ませんでした",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "man",
+      "parent",
+      "woman",
+      "child"
+    ],
+    "answer": "man",
+    "explanation": "'男' means 'man'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ません",
+      "いきませんでした",
+      "ます",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまくない",
+      "あまい",
+      "あまく",
+      "あまさ"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "で",
       "を",
       "に",
-      "で",
-      "が"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'woman'?",
-    "options": [
-      "母",
-      "姉",
-      "子",
-      "女"
-    ],
-    "answer": "女",
-    "explanation": "'女' means 'woman'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "や",
-      "も",
-      "が",
       "と"
     ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
     "options": [
-      "に",
-      "で",
-      "が",
-      "を"
+      "ません",
+      "ました",
+      "ます",
+      "いきませんでした"
     ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
     "options": [
-      "は",
-      "に",
-      "が",
-      "の"
+      "man",
+      "woman",
+      "parent",
+      "child"
     ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mountain'?",
-    "options": [
-      "川",
-      "山",
-      "林",
-      "森"
-    ],
-    "answer": "山",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
-    "options": [
-      "に",
-      "で",
-      "を",
-      "が"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "に",
-      "が",
-      "で",
-      "を"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "を",
-      "の",
-      "が",
-      "に"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'hand'?",
-    "options": [
-      "足",
-      "耳",
-      "手",
-      "口"
-    ],
-    "answer": "手",
-    "explanation": "'手' means 'hand'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
-    "options": [
-      "は",
-      "に",
-      "の",
-      "が"
-    ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "は",
-      "が",
-      "を",
-      "の"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
-    "options": [
-      "が",
-      "に",
-      "で",
-      "を"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'fire'?",
-    "options": [
-      "木",
-      "金",
-      "水",
-      "火"
-    ],
-    "answer": "火",
-    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'eye'?",
-    "options": [
-      "耳",
-      "手",
-      "目",
-      "足"
-    ],
-    "answer": "目",
-    "explanation": "'目' means 'eye'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'eye'?",
-    "options": [
-      "目",
-      "足",
-      "耳",
-      "手"
-    ],
-    "answer": "目",
-    "explanation": "'目' means 'eye'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "に",
-      "を",
-      "の",
-      "が"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'earth'?",
-    "options": [
-      "土",
-      "水",
-      "木",
-      "金"
-    ],
-    "answer": "土",
-    "explanation": "'土' means 'earth' or 'soil'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "や",
-      "も",
-      "と",
-      "が"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "に",
-      "で",
-      "が",
-      "を"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "が",
-      "の",
-      "は",
-      "を"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "が",
-      "の",
-      "を",
-      "に"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'sun'?",
-    "options": [
-      "水",
-      "火",
-      "月",
-      "日"
-    ],
-    "answer": "日",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'fire'?",
-    "options": [
-      "金",
-      "火",
-      "水",
-      "木"
-    ],
-    "answer": "火",
-    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
-    "options": [
-      "が",
-      "で",
-      "を",
-      "に"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'gold'?",
-    "options": [
-      "金",
-      "水",
-      "木",
-      "火"
-    ],
-    "answer": "金",
-    "explanation": "'金' means 'gold' or 'money'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'water'?",
-    "options": [
-      "木",
-      "火",
-      "金",
-      "水"
-    ],
-    "answer": "水",
-    "explanation": "'水' means 'water'. It's a basic N5 kanji."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'study'?",
-    "options": [
-      "読",
-      "校",
-      "書",
-      "学"
-    ],
-    "answer": "学",
-    "explanation": "'学' means 'study' or 'learning'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "を",
-      "で",
-      "が",
-      "に"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'hand'?",
-    "options": [
-      "手",
-      "足",
-      "口",
-      "耳"
-    ],
-    "answer": "手",
-    "explanation": "'手' means 'hand'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
-    "options": [
-      "は",
-      "に",
-      "の",
-      "が"
-    ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "で",
-      "が",
-      "に",
-      "を"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'person'?",
-    "options": [
-      "人",
-      "大",
-      "八",
-      "入"
-    ],
-    "answer": "人",
-    "explanation": "'人' means 'person'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'man'?",
-    "options": [
-      "女",
-      "父",
-      "兄",
-      "男"
-    ],
-    "answer": "男",
+    "answer": "man",
     "explanation": "'男' means 'man'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
     "options": [
-      "の",
-      "が",
-      "に",
-      "は"
+      "ます",
+      "ません",
+      "ませんでした",
+      "ました"
     ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'sun'?",
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
     "options": [
-      "日",
-      "月",
-      "火",
-      "水"
+      "しずかに",
+      "しずか",
+      "しずけい",
+      "しずかな"
     ],
-    "answer": "日",
-    "explanation": "'日' means 'sun' or 'day'."
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
     "options": [
-      "に",
-      "を",
-      "が",
-      "で"
+      "ませんでした",
+      "ます",
+      "ません",
+      "ました"
     ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'gold'?",
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
     "options": [
-      "木",
-      "火",
-      "水",
-      "金"
+      "よい",
+      "よく",
+      "よかった",
+      "いい"
     ],
-    "answer": "金",
-    "explanation": "'金' means 'gold' or 'money'."
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
     "options": [
-      "に",
+      "のに",
+      "から",
+      "でも",
+      "ので"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "へ",
       "で",
-      "が",
-      "を"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'study'?",
-    "options": [
-      "書",
-      "学",
-      "読",
-      "校"
-    ],
-    "answer": "学",
-    "explanation": "'学' means 'study' or 'learning'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'father'?",
-    "options": [
-      "母",
-      "父",
-      "弟",
-      "兄"
-    ],
-    "answer": "父",
-    "explanation": "'父' means 'father'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
-    "options": [
       "に",
-      "は",
-      "が",
       "の"
     ],
     "answer": "の",
-    "explanation": "'の' shows relation."
+    "explanation": "'の' indicates possession or location relation."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'river'?",
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
     "options": [
-      "川",
-      "山",
-      "木",
-      "水"
+      "から",
+      "ので",
+      "でも",
+      "のに"
     ],
-    "answer": "川",
-    "explanation": "'川' means 'river'."
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
     "options": [
-      "の",
-      "を",
-      "が",
-      "に"
+      "いきましょう",
+      "いきません",
+      "いかない",
+      "いきたい"
     ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'gold'?",
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
     "options": [
-      "木",
-      "水",
-      "金",
-      "火"
+      "こども",
+      "おんな",
+      "ひと",
+      "おとこ"
     ],
-    "answer": "金",
-    "explanation": "'金' means 'gold' or 'money'."
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
     "options": [
-      "が",
-      "に",
-      "で",
-      "を"
+      "ませんでした",
+      "ます",
+      "ません",
+      "ました"
     ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'earth'?",
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
     "options": [
-      "水",
-      "木",
-      "金",
-      "土"
+      "ました",
+      "ません",
+      "ませんでした",
+      "ます"
     ],
-    "answer": "土",
-    "explanation": "'土' means 'earth' or 'soil'."
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'fire'?",
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
     "options": [
-      "金",
-      "水",
-      "火",
-      "木"
+      "よかった",
+      "よい",
+      "いい",
+      "よく"
     ],
-    "answer": "火",
-    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'tree'?",
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
     "options": [
-      "木",
-      "水",
-      "金",
-      "土"
+      "ませんでした",
+      "ます",
+      "ません",
+      "ました"
     ],
-    "answer": "木",
-    "explanation": "'木' means 'tree' or 'wood'."
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'water'?",
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
     "options": [
-      "金",
-      "木",
-      "火",
-      "水"
+      "ません",
+      "ました",
+      "ます",
+      "ませんでした"
     ],
-    "answer": "水",
-    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
     "options": [
-      "の",
-      "が",
-      "は",
-      "に"
+      "しずかに",
+      "しずかな",
+      "しずけい",
+      "しずか"
     ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'earth'?",
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
     "options": [
-      "水",
-      "木",
-      "金",
-      "土"
-    ],
-    "answer": "土",
-    "explanation": "'土' means 'earth' or 'soil'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mouth'?",
-    "options": [
-      "日",
-      "目",
-      "耳",
-      "口"
-    ],
-    "answer": "口",
-    "explanation": "'口' means 'mouth'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'father'?",
-    "options": [
-      "父",
-      "母",
-      "兄",
-      "弟"
-    ],
-    "answer": "父",
-    "explanation": "'父' means 'father'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'river'?",
-    "options": [
-      "川",
-      "木",
-      "山",
-      "水"
-    ],
-    "answer": "川",
-    "explanation": "'川' means 'river'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "を",
-      "の",
-      "が",
-      "に"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'river'?",
-    "options": [
-      "木",
-      "川",
-      "水",
-      "山"
-    ],
-    "answer": "川",
-    "explanation": "'川' means 'river'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "を",
-      "が",
-      "に",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "が",
       "で",
       "に",
-      "を"
-    ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "に",
       "を",
-      "が",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "に",
-      "で",
-      "が",
-      "を"
-    ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'school'?",
-    "options": [
-      "学",
-      "校",
-      "先",
-      "高"
-    ],
-    "answer": "校",
-    "explanation": "'校' means 'school'. Found in 学校 (school)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'river'?",
-    "options": [
-      "水",
-      "川",
-      "木",
-      "山"
-    ],
-    "answer": "川",
-    "explanation": "'川' means 'river'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'tree'?",
-    "options": [
-      "土",
-      "木",
-      "水",
-      "金"
-    ],
-    "answer": "木",
-    "explanation": "'木' means 'tree' or 'wood'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
-    "options": [
-      "に",
-      "の",
-      "が",
-      "は"
-    ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "が",
-      "に",
-      "を",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "は",
-      "を",
-      "の",
-      "が"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mother'?",
-    "options": [
-      "姉",
-      "母",
-      "父",
-      "妹"
-    ],
-    "answer": "母",
-    "explanation": "'母' means 'mother'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "に",
-      "が",
-      "を",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
-    "options": [
-      "が",
-      "に",
-      "で",
-      "を"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'moon'?",
-    "options": [
-      "火",
-      "金",
-      "月",
-      "土"
-    ],
-    "answer": "月",
-    "explanation": "'月' means 'moon' or 'month'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "が",
-      "に",
-      "で",
-      "を"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'water'?",
-    "options": [
-      "火",
-      "水",
-      "金",
-      "木"
-    ],
-    "answer": "水",
-    "explanation": "'水' means 'water'. It's a basic N5 kanji."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "が",
-      "や",
-      "も",
       "と"
     ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'father'?",
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
     "options": [
-      "弟",
-      "兄",
-      "父",
-      "母"
+      "おとこ",
+      "こども",
+      "おんな",
+      "ひと"
     ],
-    "answer": "父",
-    "explanation": "'父' means 'father'."
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mountain'?",
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
     "options": [
-      "林",
-      "山",
-      "川",
-      "森"
+      "あまさ",
+      "あまく",
+      "あまくない",
+      "あまい"
     ],
-    "answer": "山",
-    "explanation": "'山' means 'mountain'."
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
     "options": [
-      "に",
-      "で",
-      "が",
-      "を"
+      "book",
+      "sun / day",
+      "moon",
+      "fire"
     ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "が",
-      "と",
-      "も",
-      "や"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'hand'?",
-    "options": [
-      "口",
-      "手",
-      "耳",
-      "足"
-    ],
-    "answer": "手",
-    "explanation": "'手' means 'hand'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "で",
-      "に",
-      "が",
-      "を"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mother'?",
-    "options": [
-      "父",
-      "母",
-      "姉",
-      "妹"
-    ],
-    "answer": "母",
-    "explanation": "'母' means 'mother'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'hand'?",
-    "options": [
-      "耳",
-      "足",
-      "手",
-      "口"
-    ],
-    "answer": "手",
-    "explanation": "'手' means 'hand'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'water'?",
-    "options": [
-      "水",
-      "木",
-      "金",
-      "火"
-    ],
-    "answer": "水",
-    "explanation": "'水' means 'water'. It's a basic N5 kanji."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'river'?",
-    "options": [
-      "水",
-      "川",
-      "山",
-      "木"
-    ],
-    "answer": "川",
-    "explanation": "'川' means 'river'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "と",
-      "も",
-      "が",
-      "や"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'man'?",
-    "options": [
-      "父",
-      "兄",
-      "男",
-      "女"
-    ],
-    "answer": "男",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "は",
-      "を",
-      "の",
-      "が"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "を",
-      "に",
-      "の",
-      "が"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'water'?",
-    "options": [
-      "火",
-      "木",
-      "金",
-      "水"
-    ],
-    "answer": "水",
-    "explanation": "'水' means 'water'. It's a basic N5 kanji."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "に",
-      "が",
-      "を",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'hand'?",
-    "options": [
-      "足",
-      "口",
-      "手",
-      "耳"
-    ],
-    "answer": "手",
-    "explanation": "'手' means 'hand'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
-    "options": [
-      "の",
-      "は",
-      "に",
-      "が"
-    ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "は",
-      "が",
-      "を",
-      "の"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "で",
-      "に",
-      "が",
-      "を"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'moon'?",
-    "options": [
-      "土",
-      "月",
-      "火",
-      "金"
-    ],
-    "answer": "月",
-    "explanation": "'月' means 'moon' or 'month'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'sun'?",
-    "options": [
-      "水",
-      "日",
-      "火",
-      "月"
-    ],
-    "answer": "日",
+    "answer": "sun / day",
     "explanation": "'日' means 'sun' or 'day'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'woman'?",
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
     "options": [
-      "女",
-      "母",
-      "姉",
-      "子"
+      "ません",
+      "ます",
+      "ました",
+      "ませんでした"
     ],
-    "answer": "女",
-    "explanation": "'女' means 'woman'."
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずけい",
+      "しずかに",
+      "しずかな"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "かね",
+      "みず",
+      "つち",
+      "き"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ません",
+      "ます",
+      "ませんでした",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "ちち",
+      "おとうと",
+      "あね",
+      "はは"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "ひと",
+      "おんな",
+      "おとこ",
+      "こども"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ました",
+      "ません",
+      "いきませんでした",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "ちいさい",
+      "かるい",
+      "おもい",
+      "たかい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いくと",
+      "いったら",
+      "いきながら",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "のに",
+      "から",
+      "ので",
+      "でも"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "かるい",
+      "ちいさい",
+      "たかい",
+      "おもい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
     "options": [
       "を",
-      "で",
-      "に",
-      "が"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "を",
-      "に",
-      "が",
-      "で"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'woman'?",
-    "options": [
-      "女",
-      "母",
-      "姉",
-      "子"
-    ],
-    "answer": "女",
-    "explanation": "'女' means 'woman'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "が",
-      "に",
-      "で",
-      "を"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'child'?",
-    "options": [
-      "人",
-      "父",
-      "子",
-      "母"
-    ],
-    "answer": "子",
-    "explanation": "'子' means 'child'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "に",
-      "を",
-      "の",
-      "が"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "が",
-      "に",
-      "を",
-      "で"
-    ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "が",
-      "を",
+      "と",
       "で",
       "に"
     ],
     "answer": "に",
-    "explanation": "'に' indicates destination."
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
     "options": [
-      "で",
-      "を",
+      "あね",
+      "おとうと",
+      "ちち",
+      "はは"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "ひと",
+      "おとこ",
+      "こども"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "へ",
       "に",
-      "が"
+      "の",
+      "で"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまさ",
+      "あまく",
+      "あまくない",
+      "あまい"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "study / learn",
+      "school",
+      "letter",
+      "student"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふるです",
+      "ふるでしょう",
+      "ふって"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ませんでした",
+      "ます",
+      "ました",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまさ",
+      "あまい",
+      "あまく",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "へ",
+      "で",
+      "に",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "つち",
+      "き",
+      "みず",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "ので",
+      "から",
+      "でも",
+      "のに"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "つち",
+      "き",
+      "ひ",
+      "みず"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いかない",
+      "いきません",
+      "いきたい",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ます",
+      "ませんでした",
+      "ました",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "mountain",
+      "tree",
+      "river",
+      "field"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "と",
+      "で",
+      "に",
+      "を"
     ],
     "answer": "に",
-    "explanation": "'に' indicates destination."
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'father'?",
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
     "options": [
-      "弟",
-      "父",
-      "兄",
-      "母"
+      "おとうと",
+      "ちち",
+      "はは",
+      "あね"
     ],
-    "answer": "父",
-    "explanation": "'父' means 'father'."
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふって",
+      "ふるです",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "つち",
+      "みず",
+      "かね",
+      "き"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふるです",
+      "ふって",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "river",
+      "field",
+      "mountain",
+      "tree"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ませんでした",
+      "ました",
+      "ません",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "ちち",
+      "はは",
+      "おとうと",
+      "あね"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふって",
+      "ふるです",
+      "ふります",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
     "options": [
       "に",
       "を",
-      "で",
-      "が"
+      "と",
+      "で"
     ],
     "answer": "に",
-    "explanation": "'に' indicates destination."
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'man'?",
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
     "options": [
-      "男",
-      "兄",
-      "父",
-      "女"
+      "ません",
+      "ました",
+      "いきませんでした",
+      "ます"
     ],
-    "answer": "男",
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ます",
+      "ません",
+      "ませんでした",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずかに",
+      "しずかな",
+      "しずか",
+      "しずけい"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "で",
+      "と",
+      "に",
+      "を"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "child",
+      "man",
+      "woman",
+      "parent"
+    ],
+    "answer": "man",
     "explanation": "'男' means 'man'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "study / learn",
+      "letter",
+      "student"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ます",
+      "いきませんでした",
+      "ました",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "はは",
+      "ちち",
+      "あね",
+      "おとうと"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いきながら",
+      "いくまで",
+      "いくと",
+      "いったら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いきながら",
+      "いくまで",
+      "いったら",
+      "いくと"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "man",
+      "woman",
+      "parent",
+      "child"
+    ],
+    "answer": "man",
+    "explanation": "'男' means 'man'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "かるい",
+      "ちいさい",
+      "たかい",
+      "おもい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いくと",
+      "いくまで",
+      "いったら",
+      "いきながら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "かね",
+      "き",
+      "つち",
+      "みず"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "おとこ",
+      "ひと",
+      "こども"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "みず",
+      "き",
+      "つち",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずかな",
+      "しずけい",
+      "しずかに",
+      "しずか"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いくまで",
+      "いきながら",
+      "いくと"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "ちち",
+      "おとうと",
+      "あね",
+      "はは"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずかな",
+      "しずけい",
+      "しずか",
+      "しずかに"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ます",
+      "ませんでした",
+      "ません",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "かるい",
+      "ちいさい",
+      "おもい",
+      "たかい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "ちいさい",
+      "たかい",
+      "かるい",
+      "おもい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ません",
+      "いきませんでした",
+      "ます",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "ひ",
+      "つち",
+      "き",
+      "みず"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "かるい",
+      "ちいさい",
+      "おもい",
+      "たかい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
     "options": [
       "に",
-      "の",
-      "を",
-      "が"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "が",
-      "に",
-      "を",
-      "の"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'child'?",
-    "options": [
-      "父",
-      "人",
-      "母",
-      "子"
-    ],
-    "answer": "子",
-    "explanation": "'子' means 'child'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "が",
-      "を",
-      "の",
-      "に"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "を",
-      "に",
-      "が",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "を",
-      "に",
+      "と",
       "で",
-      "が"
+      "を"
     ],
     "answer": "に",
-    "explanation": "'に' indicates destination."
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
     "options": [
-      "が",
-      "を",
-      "の",
-      "に"
+      "moon",
+      "book",
+      "sun / day",
+      "fire"
     ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
     "options": [
-      "が",
-      "に",
-      "の",
-      "を"
+      "あまい",
+      "あまく",
+      "あまくない",
+      "あまさ"
     ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
     "options": [
-      "を",
-      "で",
-      "が",
-      "に"
+      "ます",
+      "ませんでした",
+      "ました",
+      "ません"
     ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'study'?",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
     "options": [
-      "書",
-      "学",
-      "読",
-      "校"
+      "letter",
+      "study / learn",
+      "student",
+      "school"
     ],
-    "answer": "学",
-    "explanation": "'学' means 'study' or 'learning'."
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
     "options": [
-      "の",
-      "に",
-      "が",
-      "は"
+      "ません",
+      "ませんでした",
+      "ます",
+      "ました"
     ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
     "options": [
-      "に",
-      "の",
-      "が",
-      "を"
+      "river",
+      "tree",
+      "field",
+      "mountain"
     ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
     "options": [
-      "が",
+      "あね",
+      "おとうと",
+      "ちち",
+      "はは"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ました",
+      "ませんでした",
+      "ます",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "tree",
+      "river",
+      "mountain",
+      "field"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "おもい",
+      "たかい",
+      "ちいさい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "き",
+      "つち",
+      "みず",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまさ",
+      "あまく",
+      "あまくない",
+      "あまい"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ます",
+      "ません",
+      "いきませんでした",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "student",
+      "study / learn",
+      "school",
+      "letter"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "book",
+      "moon",
+      "sun / day",
+      "fire"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ます",
+      "ました",
+      "ません",
+      "いきませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "ので",
+      "でも",
+      "のに",
+      "から"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "いい",
+      "よく",
+      "よい",
+      "よかった"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "き",
+      "つち",
+      "みず",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よかった",
+      "いい",
+      "よく",
+      "よい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "ちち",
+      "はは",
+      "あね",
+      "おとうと"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "こども",
+      "おとこ",
+      "ひと",
+      "おんな"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
       "と",
-      "や",
-      "も"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'tree'?",
-    "options": [
-      "土",
-      "金",
-      "木",
-      "水"
-    ],
-    "answer": "木",
-    "explanation": "'木' means 'tree' or 'wood'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "の",
-      "が",
-      "を",
-      "は"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'earth'?",
-    "options": [
-      "木",
-      "金",
-      "土",
-      "水"
-    ],
-    "answer": "土",
-    "explanation": "'土' means 'earth' or 'soil'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "に",
-      "が",
       "で",
-      "を"
+      "を",
+      "に"
     ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "いい",
+      "よい",
+      "よく",
+      "よかった"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "student",
+      "letter",
+      "study / learn"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "child",
+      "woman",
+      "parent",
+      "man"
+    ],
+    "answer": "man",
+    "explanation": "'男' means 'man'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふるでしょう",
+      "ふるです",
+      "ふります",
+      "ふって"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よく",
+      "よい",
+      "よかった",
+      "いい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "tree",
+      "field",
+      "river",
+      "mountain"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ます",
+      "ません",
+      "ました",
+      "ませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "book",
+      "fire",
+      "moon"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふるでしょう",
+      "ふるです",
+      "ふって",
+      "ふります"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ます",
+      "ました",
+      "ません",
+      "ませんでした"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いきながら",
+      "いくまで",
+      "いくと"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ました",
+      "ます",
+      "ませんでした",
+      "ません"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "き",
+      "みず",
+      "かね",
+      "つち"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "いい",
+      "よい",
+      "よかった",
+      "よく"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "き",
+      "つち",
+      "みず",
+      "ひ"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずかに",
+      "しずけい",
+      "しずかな",
+      "しずか"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまく",
+      "あまさ",
+      "あまい",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふるでしょう",
+      "ふって",
+      "ふるです",
+      "ふります"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "たかい",
+      "かるい",
+      "おもい",
+      "ちいさい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "book",
+      "moon",
+      "fire"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "study / learn",
+      "school",
+      "letter",
+      "student"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "tree",
+      "river",
+      "mountain",
+      "field"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "かね",
+      "つち",
+      "き",
+      "みず"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "つち",
+      "ひ",
+      "みず",
+      "き"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきません",
+      "いかない",
+      "いきたい",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "ので",
+      "のに",
+      "でも"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
     "options": [
       "の",
-      "が",
-      "は",
+      "で",
+      "へ",
       "に"
     ],
     "answer": "の",
-    "explanation": "'の' shows relation."
+    "explanation": "'の' indicates possession or location relation."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずかな",
+      "しずけい",
+      "しずかに"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いかない",
+      "いきたい",
+      "いきません",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ませんでした",
+      "ました",
+      "ます",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
+      "あまく",
+      "あまさ",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "たかい",
+      "おもい",
+      "かるい",
+      "ちいさい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "き",
+      "つち",
+      "みず",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "field",
+      "mountain",
+      "tree",
+      "river"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "かるい",
+      "おもい",
+      "ちいさい",
+      "たかい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "つち",
+      "みず",
+      "き",
+      "かね"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふります",
+      "ふるでしょう",
+      "ふって",
+      "ふるです"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "fire",
+      "sun / day",
+      "moon",
+      "book"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
     "options": [
       "を",
-      "が",
+      "に",
+      "と",
+      "で"
+    ],
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よい",
+      "よかった",
+      "よく",
+      "いい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまくない",
+      "あまさ",
+      "あまい",
+      "あまく"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "study / learn",
+      "student",
+      "letter",
+      "school"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "あね",
+      "はは",
+      "おとうと",
+      "ちち"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いかない",
+      "いきましょう",
+      "いきたい",
+      "いきません"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "でも",
+      "から",
+      "ので",
+      "のに"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いくと",
+      "いきながら",
+      "いったら",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いきながら",
+      "いったら",
+      "いくと",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "みず",
+      "ひ",
+      "き",
+      "つち"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ます",
+      "ませんでした",
+      "ました",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "ひと",
+      "おんな",
+      "こども",
+      "おとこ"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ます",
+      "ませんでした",
+      "ません",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "ました",
+      "いきませんでした",
+      "ません",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "に",
+      "で",
+      "の",
+      "へ"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした でんしゃで いき___。",
+    "options": [
+      "いきませんでした",
+      "ました",
+      "ません",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Future/present polite form of 'to go'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "こども",
+      "ひと",
+      "おんな",
+      "おとこ"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "book",
+      "fire",
+      "moon"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ます",
+      "ませんでした",
+      "ません",
+      "ました"
+    ],
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よかった",
+      "よく",
+      "よい",
+      "いい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おんな",
+      "こども",
+      "おとこ",
+      "ひと"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "のに",
+      "ので",
+      "でも"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いきながら",
+      "いくまで",
+      "いくと",
+      "いったら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "ちいさい",
+      "たかい",
+      "おもい",
+      "かるい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "で",
+      "の",
+      "に",
+      "へ"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "book",
+      "fire",
+      "moon",
+      "sun / day"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いくと",
+      "いきながら",
+      "いくまで"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "field",
+      "mountain",
+      "tree",
+      "river"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "child",
+      "woman",
+      "man",
+      "parent"
+    ],
+    "answer": "man",
+    "explanation": "'男' means 'man'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずかな",
+      "しずけい",
+      "しずかに",
+      "しずか"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふるです",
+      "ふるでしょう",
+      "ふります",
+      "ふって"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "ひ",
+      "つち",
+      "みず",
+      "き"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきたい",
+      "いきましょう",
+      "いかない",
+      "いきません"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ませんでした",
+      "ません",
+      "ました",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "ひ",
+      "き",
+      "つち",
+      "みず"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ました",
+      "ません",
+      "ます",
+      "ませんでした"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきたい",
+      "いかない",
+      "いきません",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ました",
+      "ます",
+      "ません",
+      "ませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきましょう",
+      "いかない",
+      "いきたい",
+      "いきません"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "parent",
+      "child",
+      "man",
+      "woman"
+    ],
+    "answer": "man",
+    "explanation": "'男' means 'man'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "に",
+      "へ",
+      "の",
+      "で"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "fire",
+      "book",
+      "moon"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
+      "あまく",
+      "あまさ",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あのひとは___ひとです。",
+    "options": [
+      "しずか",
+      "しずかな",
+      "しずけい",
+      "しずかに"
+    ],
+    "answer": "しずかな",
+    "explanation": "'しずかな' is the correct na-adjective form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "mountain",
+      "tree",
+      "river",
+      "field"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ました",
+      "ます",
+      "ません",
+      "ませんでした"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "と",
+      "を",
       "で",
       "に"
     ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
     "options": [
-      "や",
-      "が",
-      "も",
+      "woman",
+      "parent",
+      "child",
+      "man"
+    ],
+    "answer": "man",
+    "explanation": "'男' means 'man'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "でも",
+      "のに",
+      "ので"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "おもい",
+      "たかい",
+      "かるい",
+      "ちいさい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ませんでした",
+      "ません",
+      "ました",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "tree",
+      "mountain",
+      "river",
+      "field"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いったら",
+      "いくと",
+      "いくまで",
+      "いきながら"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ませんでした",
+      "ません",
+      "ます",
+      "ました"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "の",
+      "に",
+      "で",
+      "へ"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "おとうと",
+      "あね",
+      "ちち",
+      "はは"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "でも",
+      "から",
+      "のに",
+      "ので"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "mountain",
+      "tree",
+      "field",
+      "river"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "ちち",
+      "はは",
+      "おとうと",
+      "あね"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よい",
+      "いい",
+      "よく",
+      "よかった"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いかない",
+      "いきたい",
+      "いきません",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "woman",
+      "parent",
+      "child",
+      "man"
+    ],
+    "answer": "man",
+    "explanation": "'男' means 'man'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふるでしょう",
+      "ふるです",
+      "ふって",
+      "ふります"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '人'?",
+    "options": [
+      "おとこ",
+      "ひと",
+      "こども",
+      "おんな"
+    ],
+    "answer": "ひと",
+    "explanation": "'人' is read as 'ひと' (person)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "このかばんは とても___ですね。",
+    "options": [
+      "かるい",
+      "ちいさい",
+      "おもい",
+      "たかい"
+    ],
+    "answer": "おもい",
+    "explanation": "'おもい' means heavy."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんへ___、すしをたべたいです。",
+    "options": [
+      "いくまで",
+      "いきながら",
+      "いったら",
+      "いくと"
+    ],
+    "answer": "いったら",
+    "explanation": "'〜たら' is used for conditional meaning."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "いい",
+      "よかった",
+      "よい",
+      "よく"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "でも",
+      "のに",
+      "から",
+      "ので"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "き",
+      "つち",
+      "ひ",
+      "みず"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう ともだち__あいました。",
+    "options": [
+      "に",
+      "で",
+      "を",
       "と"
     ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
+    "answer": "に",
+    "explanation": "'に' is used with 'あいます' to indicate the person you meet."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'water'?",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
     "options": [
-      "金",
-      "火",
-      "水",
-      "木"
+      "letter",
+      "school",
+      "student",
+      "study / learn"
     ],
-    "answer": "水",
-    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
     "options": [
-      "が",
+      "ふります",
+      "ふって",
+      "ふるです",
+      "ふるでしょう"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '水'?",
+    "options": [
+      "ひ",
+      "みず",
+      "つち",
+      "き"
+    ],
+    "answer": "みず",
+    "explanation": "'水' is read as 'みず' (water)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "fire",
+      "sun / day",
+      "book",
+      "moon"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "student",
+      "school",
+      "letter",
+      "study / learn"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきません",
+      "いきたい",
+      "いかない",
+      "いきましょう"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "あした あめが___。",
+    "options": [
+      "ふるでしょう",
+      "ふります",
+      "ふって",
+      "ふるです"
+    ],
+    "answer": "ふるでしょう",
+    "explanation": "'でしょう' indicates probability."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '木'?",
+    "options": [
+      "かね",
+      "みず",
+      "つち",
+      "き"
+    ],
+    "answer": "き",
+    "explanation": "'木' is read as 'き' (tree)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
+    "options": [
+      "よかった",
+      "よく",
+      "よい",
+      "いい"
+    ],
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "かぜをひいた___、がっこうをやすみました。",
+    "options": [
+      "から",
+      "ので",
+      "でも",
+      "のに"
+    ],
+    "answer": "ので",
+    "explanation": "'ので' gives reason/polite explanation."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "sun / day",
+      "fire",
+      "moon",
+      "book"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
       "の",
+      "へ",
       "に",
-      "は"
+      "で"
     ],
     "answer": "の",
-    "explanation": "'の' shows relation."
+    "explanation": "'の' indicates possession or location relation."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'eye'?",
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
     "options": [
-      "足",
-      "手",
-      "耳",
-      "目"
+      "ます",
+      "ません",
+      "ました",
+      "ませんでした"
     ],
-    "answer": "目",
-    "explanation": "'目' means 'eye'."
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
     "options": [
       "の",
-      "に",
-      "が",
-      "を"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "を",
       "で",
-      "が",
-      "に"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mother'?",
-    "options": [
-      "妹",
-      "姉",
-      "母",
-      "父"
-    ],
-    "answer": "母",
-    "explanation": "'母' means 'mother'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
       "に",
-      "が",
-      "を",
-      "の"
+      "へ"
     ],
     "answer": "の",
-    "explanation": "'の' indicates possession."
+    "explanation": "'の' indicates possession or location relation."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
     "options": [
+      "ませんでした",
+      "ません",
+      "ました",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "いっしょに こうえんへ___か。",
+    "options": [
+      "いきましょう",
+      "いきません",
+      "いかない",
+      "いきたい"
+    ],
+    "answer": "いきません",
+    "explanation": "'〜ませんか' is used for invitations."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "study / learn",
+      "student",
+      "letter"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ました",
+      "ませんでした",
+      "ます",
+      "ません"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "How do you read the kanji '母'?",
+    "options": [
+      "おとうと",
+      "ちち",
+      "あね",
+      "はは"
+    ],
+    "answer": "はは",
+    "explanation": "'母' is read as 'はは' (mother)."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きょうしつ__なかに がくせいがいます。",
+    "options": [
+      "に",
+      "へ",
       "の",
-      "は",
-      "を",
-      "が"
+      "で"
     ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
+    "answer": "の",
+    "explanation": "'の' indicates possession or location relation."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'man'?",
+    "type": "jlpt-n5",
+    "question": "きのうは___ てんき でした。",
     "options": [
-      "女",
-      "男",
-      "兄",
-      "父"
+      "よい",
+      "よく",
+      "いい",
+      "よかった"
     ],
-    "answer": "男",
+    "answer": "いい",
+    "explanation": "'いい' is used before 'てんき でした'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまい",
+      "あまさ",
+      "あまく",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '山'?",
+    "options": [
+      "mountain",
+      "tree",
+      "field",
+      "river"
+    ],
+    "answer": "mountain",
+    "explanation": "'山' means 'mountain'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
+    "options": [
+      "あまさ",
+      "あまく",
+      "あまい",
+      "あまくない"
+    ],
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "きのう えいがを み___。",
+    "options": [
+      "ませんでした",
+      "ました",
+      "ません",
+      "ます"
+    ],
+    "answer": "ました",
+    "explanation": "'ました' is past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "まいにち ６じに おき___。",
+    "options": [
+      "ます",
+      "ました",
+      "ません",
+      "ませんでした"
+    ],
+    "answer": "ます",
+    "explanation": "'ます' is non-past polite form."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
+    "options": [
+      "school",
+      "student",
+      "study / learn",
+      "letter"
+    ],
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "にほんごを はなし___か。",
+    "options": [
+      "ません",
+      "ませんでした",
+      "ました",
+      "ます"
+    ],
+    "answer": "ます",
+    "explanation": "Question with polite form of 'speak'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '日'?",
+    "options": [
+      "book",
+      "sun / day",
+      "fire",
+      "moon"
+    ],
+    "answer": "sun / day",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '男'?",
+    "options": [
+      "woman",
+      "parent",
+      "man",
+      "child"
+    ],
+    "answer": "man",
     "explanation": "'男' means 'man'."
   },
   {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'moon'?",
+    "type": "jlpt-n5",
+    "question": "What is the meaning of the kanji '学'?",
     "options": [
-      "月",
-      "火",
-      "土",
-      "金"
+      "study / learn",
+      "letter",
+      "student",
+      "school"
     ],
-    "answer": "月",
-    "explanation": "'月' means 'moon' or 'month'."
+    "answer": "study / learn",
+    "explanation": "'学' means 'study'."
   },
   {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
+    "type": "jlpt-n5",
+    "question": "この りんごは とても___です。",
     "options": [
-      "に",
-      "の",
-      "を",
-      "が"
+      "あまくない",
+      "あまく",
+      "あまさ",
+      "あまい"
     ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "は",
-      "が",
-      "を",
-      "の"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "に",
-      "を",
-      "で",
-      "が"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "を",
-      "に",
-      "で",
-      "が"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "が",
-      "で",
-      "に",
-      "を"
-    ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'earth'?",
-    "options": [
-      "金",
-      "土",
-      "木",
-      "水"
-    ],
-    "answer": "土",
-    "explanation": "'土' means 'earth' or 'soil'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mouth'?",
-    "options": [
-      "耳",
-      "日",
-      "目",
-      "口"
-    ],
-    "answer": "口",
-    "explanation": "'口' means 'mouth'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "を",
-      "が",
-      "に",
-      "の"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "を",
-      "に",
-      "の",
-      "が"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mountain'?",
-    "options": [
-      "森",
-      "川",
-      "山",
-      "林"
-    ],
-    "answer": "山",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "の",
-      "を",
-      "は",
-      "が"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'person'?",
-    "options": [
-      "大",
-      "人",
-      "入",
-      "八"
-    ],
-    "answer": "人",
-    "explanation": "'人' means 'person'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
-    "options": [
-      "に",
-      "は",
-      "が",
-      "の"
-    ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'fire'?",
-    "options": [
-      "金",
-      "水",
-      "火",
-      "木"
-    ],
-    "answer": "火",
-    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'river'?",
-    "options": [
-      "山",
-      "木",
-      "川",
-      "水"
-    ],
-    "answer": "川",
-    "explanation": "'川' means 'river'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "も",
-      "と",
-      "や",
-      "が"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
-    "options": [
-      "は",
-      "の",
-      "に",
-      "が"
-    ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'river'?",
-    "options": [
-      "山",
-      "川",
-      "水",
-      "木"
-    ],
-    "answer": "川",
-    "explanation": "'川' means 'river'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'man'?",
-    "options": [
-      "女",
-      "父",
-      "男",
-      "兄"
-    ],
-    "answer": "男",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "に",
-      "が",
-      "で",
-      "を"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
-    "options": [
-      "の",
-      "が",
-      "は",
-      "に"
-    ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'tree'?",
-    "options": [
-      "水",
-      "金",
-      "木",
-      "土"
-    ],
-    "answer": "木",
-    "explanation": "'木' means 'tree' or 'wood'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "が",
-      "の",
-      "を",
-      "に"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'sun'?",
-    "options": [
-      "水",
-      "月",
-      "日",
-      "火"
-    ],
-    "answer": "日",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "を",
-      "に",
-      "の",
-      "が"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "が",
-      "の",
-      "を",
-      "に"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "が",
-      "に",
-      "を",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'moon'?",
-    "options": [
-      "月",
-      "金",
-      "火",
-      "土"
-    ],
-    "answer": "月",
-    "explanation": "'月' means 'moon' or 'month'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "や",
-      "と",
-      "が",
-      "も"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'sun'?",
-    "options": [
-      "水",
-      "火",
-      "月",
-      "日"
-    ],
-    "answer": "日",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "や",
-      "が",
-      "も",
-      "と"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'person'?",
-    "options": [
-      "人",
-      "八",
-      "大",
-      "入"
-    ],
-    "answer": "人",
-    "explanation": "'人' means 'person'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'father'?",
-    "options": [
-      "母",
-      "兄",
-      "弟",
-      "父"
-    ],
-    "answer": "父",
-    "explanation": "'父' means 'father'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'child'?",
-    "options": [
-      "父",
-      "母",
-      "人",
-      "子"
-    ],
-    "answer": "子",
-    "explanation": "'子' means 'child'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'study'?",
-    "options": [
-      "読",
-      "校",
-      "書",
-      "学"
-    ],
-    "answer": "学",
-    "explanation": "'学' means 'study' or 'learning'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'eye'?",
-    "options": [
-      "目",
-      "耳",
-      "手",
-      "足"
-    ],
-    "answer": "目",
-    "explanation": "'目' means 'eye'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
-    "options": [
-      "で",
-      "を",
-      "に",
-      "が"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'sun'?",
-    "options": [
-      "火",
-      "水",
-      "日",
-      "月"
-    ],
-    "answer": "日",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "に",
-      "を",
-      "が",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'gold'?",
-    "options": [
-      "水",
-      "木",
-      "火",
-      "金"
-    ],
-    "answer": "金",
-    "explanation": "'金' means 'gold' or 'money'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "が",
-      "の",
-      "に",
-      "を"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "や",
-      "と",
-      "も",
-      "が"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "に",
-      "を",
-      "の",
-      "が"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'earth'?",
-    "options": [
-      "金",
-      "土",
-      "水",
-      "木"
-    ],
-    "answer": "土",
-    "explanation": "'土' means 'earth' or 'soil'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mouth'?",
-    "options": [
-      "日",
-      "口",
-      "耳",
-      "目"
-    ],
-    "answer": "口",
-    "explanation": "'口' means 'mouth'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "で",
-      "を",
-      "が",
-      "に"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "が",
-      "を",
-      "に",
-      "で"
-    ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'eye'?",
-    "options": [
-      "手",
-      "足",
-      "耳",
-      "目"
-    ],
-    "answer": "目",
-    "explanation": "'目' means 'eye'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "と",
-      "も",
-      "が",
-      "や"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mother'?",
-    "options": [
-      "父",
-      "姉",
-      "妹",
-      "母"
-    ],
-    "answer": "母",
-    "explanation": "'母' means 'mother'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'person'?",
-    "options": [
-      "大",
-      "人",
-      "八",
-      "入"
-    ],
-    "answer": "人",
-    "explanation": "'人' means 'person'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "を",
-      "に",
-      "で",
-      "が"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mountain'?",
-    "options": [
-      "森",
-      "林",
-      "山",
-      "川"
-    ],
-    "answer": "山",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "で",
-      "が",
-      "を",
-      "に"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'father'?",
-    "options": [
-      "父",
-      "兄",
-      "母",
-      "弟"
-    ],
-    "answer": "父",
-    "explanation": "'父' means 'father'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "に",
-      "で",
-      "を",
-      "が"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'gold'?",
-    "options": [
-      "水",
-      "金",
-      "火",
-      "木"
-    ],
-    "answer": "金",
-    "explanation": "'金' means 'gold' or 'money'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mother'?",
-    "options": [
-      "母",
-      "父",
-      "姉",
-      "妹"
-    ],
-    "answer": "母",
-    "explanation": "'母' means 'mother'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "は",
-      "の",
-      "を",
-      "が"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'hand'?",
-    "options": [
-      "耳",
-      "口",
-      "足",
-      "手"
-    ],
-    "answer": "手",
-    "explanation": "'手' means 'hand'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'person'?",
-    "options": [
-      "大",
-      "人",
-      "八",
-      "入"
-    ],
-    "answer": "人",
-    "explanation": "'人' means 'person'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'moon'?",
-    "options": [
-      "金",
-      "火",
-      "土",
-      "月"
-    ],
-    "answer": "月",
-    "explanation": "'月' means 'moon' or 'month'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "を",
-      "に",
-      "が",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "が",
-      "で",
-      "に",
-      "を"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'woman'?",
-    "options": [
-      "子",
-      "母",
-      "姉",
-      "女"
-    ],
-    "answer": "女",
-    "explanation": "'女' means 'woman'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'school'?",
-    "options": [
-      "高",
-      "学",
-      "先",
-      "校"
-    ],
-    "answer": "校",
-    "explanation": "'校' means 'school'. Found in 学校 (school)."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "を",
-      "に",
-      "で",
-      "が"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'sun'?",
-    "options": [
-      "日",
-      "火",
-      "月",
-      "水"
-    ],
-    "answer": "日",
-    "explanation": "'日' means 'sun' or 'day'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "を",
-      "に",
-      "で",
-      "が"
-    ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'gold'?",
-    "options": [
-      "火",
-      "金",
-      "水",
-      "木"
-    ],
-    "answer": "金",
-    "explanation": "'金' means 'gold' or 'money'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'earth'?",
-    "options": [
-      "水",
-      "木",
-      "金",
-      "土"
-    ],
-    "answer": "土",
-    "explanation": "'土' means 'earth' or 'soil'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "で",
-      "を",
-      "が",
-      "に"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'study'?",
-    "options": [
-      "読",
-      "書",
-      "校",
-      "学"
-    ],
-    "answer": "学",
-    "explanation": "'学' means 'study' or 'learning'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: なに__ たべますか。",
-    "options": [
-      "に",
-      "の",
-      "が",
-      "を"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object of the verb."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mother'?",
-    "options": [
-      "姉",
-      "父",
-      "母",
-      "妹"
-    ],
-    "answer": "母",
-    "explanation": "'母' means 'mother'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "が",
-      "に",
-      "で",
-      "を"
-    ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'woman'?",
-    "options": [
-      "女",
-      "子",
-      "母",
-      "姉"
-    ],
-    "answer": "女",
-    "explanation": "'女' means 'woman'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "が",
-      "に",
-      "を",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mountain'?",
-    "options": [
-      "山",
-      "森",
-      "林",
-      "川"
-    ],
-    "answer": "山",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "を",
-      "で",
-      "に",
-      "が"
-    ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "で",
-      "に",
-      "を",
-      "が"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mouth'?",
-    "options": [
-      "耳",
-      "目",
-      "日",
-      "口"
-    ],
-    "answer": "口",
-    "explanation": "'口' means 'mouth'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "や",
-      "が",
-      "も",
-      "と"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'child'?",
-    "options": [
-      "母",
-      "人",
-      "父",
-      "子"
-    ],
-    "answer": "子",
-    "explanation": "'子' means 'child'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'woman'?",
-    "options": [
-      "子",
-      "女",
-      "母",
-      "姉"
-    ],
-    "answer": "女",
-    "explanation": "'女' means 'woman'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'fire'?",
-    "options": [
-      "木",
-      "水",
-      "火",
-      "金"
-    ],
-    "answer": "火",
-    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'tree'?",
-    "options": [
-      "金",
-      "水",
-      "木",
-      "土"
-    ],
-    "answer": "木",
-    "explanation": "'木' means 'tree' or 'wood'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'moon'?",
-    "options": [
-      "金",
-      "火",
-      "土",
-      "月"
-    ],
-    "answer": "月",
-    "explanation": "'月' means 'moon' or 'month'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: きょう__がっこうへいきます。",
-    "options": [
-      "で",
-      "を",
-      "に",
-      "が"
-    ],
-    "answer": "に",
-    "explanation": "'に' indicates destination."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "で",
-      "が",
-      "を",
-      "に"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
-    "options": [
-      "で",
-      "を",
-      "が",
-      "に"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'study'?",
-    "options": [
-      "書",
-      "校",
-      "読",
-      "学"
-    ],
-    "answer": "学",
-    "explanation": "'学' means 'study' or 'learning'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "に",
-      "が",
-      "を",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "が",
-      "の",
-      "に",
-      "を"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mountain'?",
-    "options": [
-      "川",
-      "山",
-      "森",
-      "林"
-    ],
-    "answer": "山",
-    "explanation": "'山' means 'mountain'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "も",
-      "と",
-      "や",
-      "が"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'man'?",
-    "options": [
-      "男",
-      "兄",
-      "父",
-      "女"
-    ],
-    "answer": "男",
-    "explanation": "'男' means 'man'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "を",
-      "の",
-      "が",
-      "は"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'person'?",
-    "options": [
-      "大",
-      "人",
-      "入",
-      "八"
-    ],
-    "answer": "人",
-    "explanation": "'人' means 'person'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'person'?",
-    "options": [
-      "入",
-      "大",
-      "八",
-      "人"
-    ],
-    "answer": "人",
-    "explanation": "'人' means 'person'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: いぬ__ ねこ が います。",
-    "options": [
-      "と",
-      "が",
-      "も",
-      "や"
-    ],
-    "answer": "と",
-    "explanation": "'と' means 'and' (listing)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'fire'?",
-    "options": [
-      "金",
-      "木",
-      "水",
-      "火"
-    ],
-    "answer": "火",
-    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'earth'?",
-    "options": [
-      "水",
-      "土",
-      "金",
-      "木"
-    ],
-    "answer": "土",
-    "explanation": "'土' means 'earth' or 'soil'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'gold'?",
-    "options": [
-      "火",
-      "水",
-      "金",
-      "木"
-    ],
-    "answer": "金",
-    "explanation": "'金' means 'gold' or 'money'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "は",
-      "が",
-      "の",
-      "を"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'eye'?",
-    "options": [
-      "足",
-      "手",
-      "耳",
-      "目"
-    ],
-    "answer": "目",
-    "explanation": "'目' means 'eye'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'school'?",
-    "options": [
-      "先",
-      "学",
-      "高",
-      "校"
-    ],
-    "answer": "校",
-    "explanation": "'校' means 'school'. Found in 学校 (school)."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'school'?",
-    "options": [
-      "高",
-      "校",
-      "学",
-      "先"
-    ],
-    "answer": "校",
-    "explanation": "'校' means 'school'. Found in 学校 (school)."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "の",
-      "を",
-      "が",
-      "は"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'hand'?",
-    "options": [
-      "口",
-      "手",
-      "足",
-      "耳"
-    ],
-    "answer": "手",
-    "explanation": "'手' means 'hand'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mouth'?",
-    "options": [
-      "口",
-      "目",
-      "日",
-      "耳"
-    ],
-    "answer": "口",
-    "explanation": "'口' means 'mouth'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
-    "options": [
-      "が",
-      "を",
-      "に",
-      "で"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates means of transport."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "に",
-      "を",
-      "の",
-      "が"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'tree'?",
-    "options": [
-      "金",
-      "土",
-      "木",
-      "水"
-    ],
-    "answer": "木",
-    "explanation": "'木' means 'tree' or 'wood'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__せんせいです。",
-    "options": [
-      "が",
-      "は",
-      "の",
-      "を"
-    ],
-    "answer": "は",
-    "explanation": "'は' is the topic marker."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'tree'?",
-    "options": [
-      "木",
-      "土",
-      "金",
-      "水"
-    ],
-    "answer": "木",
-    "explanation": "'木' means 'tree' or 'wood'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mother'?",
-    "options": [
-      "姉",
-      "母",
-      "妹",
-      "父"
-    ],
-    "answer": "母",
-    "explanation": "'母' means 'mother'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'mouth'?",
-    "options": [
-      "目",
-      "耳",
-      "日",
-      "口"
-    ],
-    "answer": "口",
-    "explanation": "'口' means 'mouth'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: こうえん__あそびました。",
-    "options": [
-      "で",
-      "に",
-      "が",
-      "を"
-    ],
-    "answer": "で",
-    "explanation": "'で' indicates place of action."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
-    "options": [
-      "が",
-      "の",
-      "に",
-      "は"
-    ],
-    "answer": "の",
-    "explanation": "'の' shows relation."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
-    "options": [
-      "で",
-      "が",
-      "に",
-      "を"
-    ],
-    "answer": "を",
-    "explanation": "'を' marks the object."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'fire'?",
-    "options": [
-      "火",
-      "木",
-      "金",
-      "水"
-    ],
-    "answer": "火",
-    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: にほんご__わかりますか。",
-    "options": [
-      "で",
-      "が",
-      "を",
-      "に"
-    ],
-    "answer": "が",
-    "explanation": "'が' is used with 'わかります'."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "に",
-      "の",
-      "が",
-      "を"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'water'?",
-    "options": [
-      "水",
-      "木",
-      "火",
-      "金"
-    ],
-    "answer": "水",
-    "explanation": "'水' means 'water'. It's a basic N5 kanji."
-  },
-  {
-    "type": "grammar",
-    "question": "Choose the correct particle: これはペン__ほんです。",
-    "options": [
-      "を",
-      "の",
-      "が",
-      "に"
-    ],
-    "answer": "の",
-    "explanation": "'の' indicates possession."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'eye'?",
-    "options": [
-      "足",
-      "耳",
-      "目",
-      "手"
-    ],
-    "answer": "目",
-    "explanation": "'目' means 'eye'."
-  },
-  {
-    "type": "kanji",
-    "question": "What is the correct kanji for 'school'?",
-    "options": [
-      "先",
-      "学",
-      "校",
-      "高"
-    ],
-    "answer": "校",
-    "explanation": "'校' means 'school'. Found in 学校 (school)."
+    "answer": "あまい",
+    "explanation": "'あまい' (sweet) is the correct adjective form before 'です'."
   }
 ]
