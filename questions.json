@@ -1,6 +1,318 @@
 [
   {
     "type": "kanji",
+    "question": "What is the correct kanji for 'earth'?",
+    "options": [
+      "水",
+      "木",
+      "金",
+      "土"
+    ],
+    "answer": "土",
+    "explanation": "'土' means 'earth' or 'soil'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "金",
+      "水",
+      "火",
+      "木"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "が",
+      "で",
+      "に",
+      "を"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "が",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "金",
+      "水",
+      "木",
+      "火"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
+    "options": [
+      "土",
+      "木",
+      "水",
+      "金"
+    ],
+    "answer": "木",
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "の",
+      "に",
+      "を",
+      "が"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "に",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "大",
+      "入",
+      "人",
+      "八"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "を",
+      "に",
+      "で",
+      "が"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "八",
+      "人",
+      "入",
+      "大"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "目",
+      "手",
+      "耳",
+      "足"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'earth'?",
+    "options": [
+      "木",
+      "土",
+      "水",
+      "金"
+    ],
+    "answer": "土",
+    "explanation": "'土' means 'earth' or 'soil'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "手",
+      "耳",
+      "目",
+      "足"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
+    "options": [
+      "木",
+      "金",
+      "水",
+      "土"
+    ],
+    "answer": "木",
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "が"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "options": [
+      "と",
+      "も",
+      "が",
+      "や"
+    ],
+    "answer": "と",
+    "explanation": "'と' means 'and' (listing)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "が",
+      "に",
+      "の",
+      "は"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "金",
+      "木",
+      "水",
+      "火"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "options": [
+      "で",
+      "が",
+      "を",
+      "に"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "options": [
+      "と",
+      "が",
+      "や",
+      "も"
+    ],
+    "answer": "と",
+    "explanation": "'と' means 'and' (listing)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__せんせいです。",
+    "options": [
+      "を",
+      "の",
+      "が",
+      "は"
+    ],
+    "answer": "は",
+    "explanation": "'は' is the topic marker."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "が",
+      "に",
+      "は",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'mouth'?",
+    "options": [
+      "目",
+      "耳",
+      "口",
+      "日"
+    ],
+    "answer": "口",
+    "explanation": "'口' means 'mouth'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "木",
+      "水",
+      "火",
+      "金"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'mouth'?",
+    "options": [
+      "目",
+      "日",
+      "耳",
+      "口"
+    ],
+    "answer": "口",
+    "explanation": "'口' means 'mouth'."
+  },
+  {
+    "type": "kanji",
     "question": "What is the correct kanji for 'water'?",
     "options": [
       "火",
@@ -9,19 +321,1795 @@
       "金"
     ],
     "answer": "水",
-    "explanation": "'水' means 'water'. It is one of the five classical elements in Japanese."
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "options": [
+      "も",
+      "と",
+      "や",
+      "が"
+    ],
+    "answer": "と",
+    "explanation": "'と' means 'and' (listing)."
   },
   {
     "type": "kanji",
-    "question": "Choose the kanji for 'tree'.",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "水",
+      "火",
+      "木",
+      "金"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "に",
+      "は",
+      "の",
+      "が"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "の",
+      "を",
+      "が",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "目",
+      "耳",
+      "手",
+      "足"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "手",
+      "目",
+      "耳",
+      "足"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
+    "options": [
+      "木",
+      "金",
+      "土",
+      "水"
+    ],
+    "answer": "木",
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
+    "options": [
+      "木",
+      "土",
+      "水",
+      "金"
+    ],
+    "answer": "木",
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "が",
+      "に",
+      "の",
+      "を"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: なに__ たべますか。",
+    "options": [
+      "を",
+      "が",
+      "に",
+      "の"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object of the verb."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "火",
+      "水",
+      "金",
+      "木"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "火",
+      "水",
+      "木",
+      "金"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "八",
+      "大",
+      "入",
+      "人"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'hand'?",
+    "options": [
+      "口",
+      "足",
+      "耳",
+      "手"
+    ],
+    "answer": "手",
+    "explanation": "'手' means 'hand'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'hand'?",
+    "options": [
+      "口",
+      "耳",
+      "足",
+      "手"
+    ],
+    "answer": "手",
+    "explanation": "'手' means 'hand'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "目",
+      "足",
+      "手",
+      "耳"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'hand'?",
+    "options": [
+      "足",
+      "口",
+      "手",
+      "耳"
+    ],
+    "answer": "手",
+    "explanation": "'手' means 'hand'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'mouth'?",
+    "options": [
+      "耳",
+      "口",
+      "日",
+      "目"
+    ],
+    "answer": "口",
+    "explanation": "'口' means 'mouth'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "火",
+      "木",
+      "水",
+      "金"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "の",
+      "を",
+      "が",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "options": [
+      "と",
+      "も",
+      "や",
+      "が"
+    ],
+    "answer": "と",
+    "explanation": "'と' means 'and' (listing)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "を",
+      "に",
+      "で",
+      "が"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "が",
+      "の",
+      "は",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__せんせいです。",
+    "options": [
+      "の",
+      "は",
+      "を",
+      "が"
+    ],
+    "answer": "は",
+    "explanation": "'は' is the topic marker."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "options": [
+      "に",
+      "が",
+      "で",
+      "を"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates means of transport."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "手",
+      "耳",
+      "足",
+      "目"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "に",
+      "を",
+      "が",
+      "で"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "に",
+      "は",
+      "が",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "を",
+      "に",
+      "で",
+      "が"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "に",
+      "は",
+      "が",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "を",
+      "が",
+      "に",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'earth'?",
+    "options": [
+      "金",
+      "水",
+      "木",
+      "土"
+    ],
+    "answer": "土",
+    "explanation": "'土' means 'earth' or 'soil'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
+    "options": [
+      "金",
+      "水",
+      "土",
+      "木"
+    ],
+    "answer": "木",
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "の",
+      "が",
+      "は",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "が",
+      "で",
+      "を",
+      "に"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "手",
+      "目",
+      "耳",
+      "足"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "目",
+      "足",
+      "手",
+      "耳"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "水",
+      "火",
+      "金",
+      "木"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "大",
+      "入",
+      "八",
+      "人"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "options": [
+      "に",
+      "が",
+      "で",
+      "を"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates means of transport."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: なに__ たべますか。",
+    "options": [
+      "が",
+      "の",
+      "を",
+      "に"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object of the verb."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "options": [
+      "を",
+      "に",
+      "で",
+      "が"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates means of transport."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'sun'?",
+    "options": [
+      "日",
+      "水",
+      "月",
+      "火"
+    ],
+    "answer": "日",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "金",
+      "水",
+      "木",
+      "火"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
     "options": [
       "水",
       "木",
+      "金",
+      "土"
+    ],
+    "answer": "木",
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'sun'?",
+    "options": [
+      "日",
+      "火",
+      "月",
+      "水"
+    ],
+    "answer": "日",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "options": [
+      "と",
+      "や",
+      "が",
+      "も"
+    ],
+    "answer": "と",
+    "explanation": "'と' means 'and' (listing)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "の",
+      "に",
+      "を",
+      "が"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "大",
+      "入",
+      "人",
+      "八"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "金",
+      "木",
+      "水",
+      "火"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
+    "options": [
+      "金",
+      "土",
+      "水",
+      "木"
+    ],
+    "answer": "木",
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'mouth'?",
+    "options": [
+      "耳",
+      "口",
+      "目",
+      "日"
+    ],
+    "answer": "口",
+    "explanation": "'口' means 'mouth'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'earth'?",
+    "options": [
+      "土",
+      "水",
+      "金",
+      "木"
+    ],
+    "answer": "土",
+    "explanation": "'土' means 'earth' or 'soil'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "が",
+      "に",
+      "の",
+      "を"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "に",
+      "が",
+      "を",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "の",
+      "は",
+      "が",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "手",
+      "目",
+      "足",
+      "耳"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "木",
+      "金",
+      "水",
+      "火"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "の",
+      "が",
+      "に",
+      "を"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "入",
+      "八",
+      "人",
+      "大"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "に",
+      "の",
+      "が",
+      "を"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "が",
+      "で",
+      "に",
+      "を"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "火",
+      "水",
+      "木",
+      "金"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "金",
+      "木",
+      "水",
+      "火"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "が",
+      "を",
+      "に",
+      "で"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "金",
+      "水",
+      "火",
+      "木"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
+    "options": [
+      "水",
+      "土",
+      "木",
+      "金"
+    ],
+    "answer": "木",
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "金",
+      "火",
+      "水",
+      "木"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "の",
+      "を",
+      "が",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "options": [
+      "に",
+      "で",
+      "が",
+      "を"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "に",
+      "の",
+      "が",
+      "は"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "目",
+      "足",
+      "手",
+      "耳"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "が",
+      "に",
+      "で",
+      "を"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "options": [
+      "や",
+      "が",
+      "と",
+      "も"
+    ],
+    "answer": "と",
+    "explanation": "'と' means 'and' (listing)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "火",
+      "金",
+      "木",
+      "水"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "で",
+      "が",
+      "を",
+      "に"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: なに__ たべますか。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "が"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object of the verb."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "金",
+      "火",
+      "木",
+      "水"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "手",
+      "足",
+      "目",
+      "耳"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "options": [
+      "を",
+      "に",
+      "で",
+      "が"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates means of transport."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'earth'?",
+    "options": [
+      "木",
+      "水",
+      "金",
+      "土"
+    ],
+    "answer": "土",
+    "explanation": "'土' means 'earth' or 'soil'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'sun'?",
+    "options": [
+      "日",
+      "水",
+      "火",
+      "月"
+    ],
+    "answer": "日",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "に",
+      "で",
+      "が",
+      "を"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "火",
+      "木",
+      "水",
+      "金"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "に",
+      "が",
+      "で",
+      "を"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'hand'?",
+    "options": [
+      "口",
+      "足",
+      "手",
+      "耳"
+    ],
+    "answer": "手",
+    "explanation": "'手' means 'hand'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "で",
+      "が",
+      "を",
+      "に"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__せんせいです。",
+    "options": [
+      "が",
+      "は",
+      "を",
+      "の"
+    ],
+    "answer": "は",
+    "explanation": "'は' is the topic marker."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "が",
+      "を",
+      "で",
+      "に"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "金",
+      "木",
+      "火",
+      "水"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: なに__ たべますか。",
+    "options": [
+      "を",
+      "の",
+      "に",
+      "が"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object of the verb."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "で",
+      "に",
+      "が",
+      "を"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "手",
+      "目",
+      "足",
+      "耳"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'earth'?",
+    "options": [
+      "水",
+      "土",
+      "金",
+      "木"
+    ],
+    "answer": "土",
+    "explanation": "'土' means 'earth' or 'soil'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'earth'?",
+    "options": [
+      "木",
+      "水",
+      "土",
+      "金"
+    ],
+    "answer": "土",
+    "explanation": "'土' means 'earth' or 'soil'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "人",
+      "八",
+      "入",
+      "大"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'mouth'?",
+    "options": [
+      "口",
+      "日",
+      "耳",
+      "目"
+    ],
+    "answer": "口",
+    "explanation": "'口' means 'mouth'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "耳",
+      "目",
+      "手",
+      "足"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "が"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "水",
+      "火",
+      "木",
+      "金"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "options": [
+      "に",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "は",
+      "に",
+      "の",
+      "が"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "で",
+      "を",
+      "に",
+      "が"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "options": [
+      "も",
+      "や",
+      "と",
+      "が"
+    ],
+    "answer": "と",
+    "explanation": "'と' means 'and' (listing)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "人",
+      "八",
+      "入",
+      "大"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "で",
+      "が",
+      "を",
+      "に"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: なに__ たべますか。",
+    "options": [
+      "を",
+      "の",
+      "に",
+      "が"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object of the verb."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "木",
+      "金",
+      "水",
+      "火"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "に",
+      "で",
+      "が",
+      "を"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "八",
+      "大",
+      "人",
+      "入"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'hand'?",
+    "options": [
+      "足",
+      "耳",
+      "手",
+      "口"
+    ],
+    "answer": "手",
+    "explanation": "'手' means 'hand'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "木",
+      "水",
+      "火",
+      "金"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "木",
+      "水",
+      "金",
+      "火"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "を",
+      "で",
+      "が",
+      "に"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "を",
+      "に",
+      "の",
+      "が"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: なに__ たべますか。",
+    "options": [
+      "に",
+      "が",
+      "を",
+      "の"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object of the verb."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: なに__ たべますか。",
+    "options": [
+      "に",
+      "が",
+      "の",
+      "を"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object of the verb."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "options": [
+      "も",
+      "と",
+      "が",
+      "や"
+    ],
+    "answer": "と",
+    "explanation": "'と' means 'and' (listing)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'sun'?",
+    "options": [
+      "水",
+      "火",
+      "月",
+      "日"
+    ],
+    "answer": "日",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'earth'?",
+    "options": [
+      "水",
+      "金",
+      "土",
+      "木"
+    ],
+    "answer": "土",
+    "explanation": "'土' means 'earth' or 'soil'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'sun'?",
+    "options": [
+      "月",
+      "火",
+      "水",
+      "日"
+    ],
+    "answer": "日",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "を",
+      "に",
+      "で",
+      "が"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "水",
+      "金",
+      "火",
+      "木"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "が",
+      "に",
+      "を",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "を",
+      "の",
+      "が",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "に",
+      "で",
+      "を",
+      "が"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "目",
+      "手",
+      "耳",
+      "足"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'eye'?",
+    "options": [
+      "足",
+      "耳",
+      "目",
+      "手"
+    ],
+    "answer": "目",
+    "explanation": "'目' means 'eye'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "が",
+      "に",
+      "の",
+      "を"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "水",
+      "木",
+      "金",
+      "火"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: なに__ たべますか。",
+    "options": [
+      "の",
+      "を",
+      "に",
+      "が"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object of the verb."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "を",
+      "の",
+      "が",
+      "に"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "水",
+      "金",
+      "火",
+      "木"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "で",
+      "が",
+      "を",
+      "に"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "は",
+      "が",
+      "に",
+      "の"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
+    "options": [
+      "木",
+      "水",
       "土",
       "金"
     ],
     "answer": "木",
-    "explanation": "'木' is the kanji for 'tree' or 'wood'."
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "木",
+      "火",
+      "金",
+      "水"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "の",
+      "に",
+      "を",
+      "が"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "木",
+      "水",
+      "火",
+      "金"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "options": [
+      "が",
+      "で",
+      "に",
+      "を"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates means of transport."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: なに__ たべますか。",
+    "options": [
+      "に",
+      "を",
+      "の",
+      "が"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object of the verb."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: いぬ__ ねこ が います。",
+    "options": [
+      "が",
+      "も",
+      "と",
+      "や"
+    ],
+    "answer": "と",
+    "explanation": "'と' means 'and' (listing)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'person'?",
+    "options": [
+      "人",
+      "大",
+      "八",
+      "入"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'gold'?",
+    "options": [
+      "水",
+      "金",
+      "木",
+      "火"
+    ],
+    "answer": "金",
+    "explanation": "'金' means 'gold' or 'money'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたしは にほんご__べんきょうします。",
+    "options": [
+      "で",
+      "が",
+      "に",
+      "を"
+    ],
+    "answer": "を",
+    "explanation": "'を' marks the object."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "が"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates means of transport."
   },
   {
     "type": "grammar",
@@ -33,30 +2121,282 @@
       "で"
     ],
     "answer": "に",
-    "explanation": "The particle 'に' is used to indicate destination or direction."
+    "explanation": "'に' indicates destination."
   },
   {
     "type": "grammar",
-    "question": "Choose the correct form: わたしは にほんご__べんきょうします。",
+    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
     "options": [
-      "を",
       "で",
-      "が",
-      "に"
+      "に",
+      "を",
+      "が"
     ],
-    "answer": "を",
-    "explanation": "The particle 'を' is used to mark the direct object of the verb 'べんきょうします'."
+    "answer": "で",
+    "explanation": "'で' indicates means of transport."
   },
   {
     "type": "kanji",
-    "question": "Which kanji means 'fire'?",
+    "question": "What is the correct kanji for 'person'?",
     "options": [
+      "八",
+      "入",
+      "人",
+      "大"
+    ],
+    "answer": "人",
+    "explanation": "'人' means 'person'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "で",
+      "に",
+      "を",
+      "が"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "が",
+      "に",
+      "の",
+      "を"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: これはペン__ほんです。",
+    "options": [
+      "に",
+      "の",
+      "が",
+      "を"
+    ],
+    "answer": "の",
+    "explanation": "'の' indicates possession."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'hand'?",
+    "options": [
+      "手",
+      "口",
+      "足",
+      "耳"
+    ],
+    "answer": "手",
+    "explanation": "'手' means 'hand'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'hand'?",
+    "options": [
+      "口",
+      "耳",
+      "手",
+      "足"
+    ],
+    "answer": "手",
+    "explanation": "'手' means 'hand'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "は",
+      "に",
+      "の",
+      "が"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "火",
       "水",
       "金",
-      "火",
       "木"
     ],
     "answer": "火",
-    "explanation": "'火' means 'fire'. It is a basic N5 kanji."
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'mouth'?",
+    "options": [
+      "口",
+      "目",
+      "日",
+      "耳"
+    ],
+    "answer": "口",
+    "explanation": "'口' means 'mouth'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: こうえん__あそびました。",
+    "options": [
+      "を",
+      "で",
+      "に",
+      "が"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates place of action."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "を",
+      "が",
+      "で",
+      "に"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: きょう__がっこうへいきます。",
+    "options": [
+      "に",
+      "で",
+      "が",
+      "を"
+    ],
+    "answer": "に",
+    "explanation": "'に' indicates destination."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: わたし__くに は ブラジルです。",
+    "options": [
+      "に",
+      "の",
+      "が",
+      "は"
+    ],
+    "answer": "の",
+    "explanation": "'の' shows relation."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "水",
+      "火",
+      "金",
+      "木"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'water'?",
+    "options": [
+      "金",
+      "水",
+      "木",
+      "火"
+    ],
+    "answer": "水",
+    "explanation": "'水' means 'water'. It's a basic N5 kanji."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'mouth'?",
+    "options": [
+      "目",
+      "口",
+      "日",
+      "耳"
+    ],
+    "answer": "口",
+    "explanation": "'口' means 'mouth'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'hand'?",
+    "options": [
+      "耳",
+      "口",
+      "足",
+      "手"
+    ],
+    "answer": "手",
+    "explanation": "'手' means 'hand'."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'tree'?",
+    "options": [
+      "木",
+      "土",
+      "金",
+      "水"
+    ],
+    "answer": "木",
+    "explanation": "'木' means 'tree' or 'wood'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: でんしゃ__がっこうへいきます。",
+    "options": [
+      "を",
+      "で",
+      "に",
+      "が"
+    ],
+    "answer": "で",
+    "explanation": "'で' indicates means of transport."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'fire'?",
+    "options": [
+      "火",
+      "木",
+      "金",
+      "水"
+    ],
+    "answer": "火",
+    "explanation": "'火' means 'fire'. Used in 火曜日 (Tuesday)."
+  },
+  {
+    "type": "kanji",
+    "question": "What is the correct kanji for 'sun'?",
+    "options": [
+      "日",
+      "水",
+      "火",
+      "月"
+    ],
+    "answer": "日",
+    "explanation": "'日' means 'sun' or 'day'."
+  },
+  {
+    "type": "grammar",
+    "question": "Choose the correct particle: にほんご__わかりますか。",
+    "options": [
+      "に",
+      "を",
+      "で",
+      "が"
+    ],
+    "answer": "が",
+    "explanation": "'が' is used with 'わかります'."
   }
 ]
