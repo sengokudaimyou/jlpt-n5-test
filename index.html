@@ -1,10 +1,141 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Nihongo Proficiency Test - Level N5 by SengokuDaimyou</title>
-  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #f5f5f5;
+    }
+
+```
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+#start-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#start-button:hover {
+  background-color: #45a049;
+}
+
+#timer {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff6b6b;
+  margin-bottom: 20px;
+}
+
+#quiz {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+#question-number {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+#question-text {
+  font-size: 20px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+.option {
+  display: block;
+  margin: 10px 0;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.option:hover {
+  background-color: #e9e9e9;
+  border-color: #4CAF50;
+}
+
+.option.selected {
+  background-color: #4CAF50;
+  color: white;
+  border-color: #4CAF50;
+}
+
+#next-button {
+  background-color: #2196F3;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+  display: none;
+}
+
+#next-button:hover {
+  background-color: #1976D2;
+}
+
+#result {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.correct {
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+.incorrect {
+  color: #f44336;
+  font-weight: bold;
+}
+
+#restart-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 30px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+#restart-button:hover {
+  background-color: #45a049;
+}
+```
+
+  </style>
 </head>
 <body>
   <h1>Nihongo Proficiency Test - Level N5 by SengokuDaimyou</h1>
@@ -16,13 +147,211 @@
     <div id="question-number"></div>
     <div id="question-text"></div>
     <div id="options"></div>
+    <button id="next-button">次へ (Next)</button>
   </div>
   <div id="result" style="display:none;">
-    <h2>Result</h2>
-    <p>Correct Answers: <span id="correct"></span></p>
-    <p>Incorrect Answers: <span id="incorrect"></span></p>
+    <h2>結果 (Result)</h2>
+    <p>正解: <span id="correct" class="correct"></span></p>
+    <p>不正解: <span id="incorrect" class="incorrect"></span></p>
+    <p>スコア: <span id="score"></span>%</p>
     <div id="details"></div>
+    <button id="restart-button">もう一度 (Restart)</button>
   </div>
-  <script src="script.js"></script>
+
+  <script>
+    // Sample N5 level questions
+    const questions = [
+      {
+        question: "「こんにちは」の意味は何ですか？",
+        options: ["Good morning", "Good afternoon", "Good evening", "Good night"],
+        correct: 1
+      },
+      {
+        question: "「ありがとう」の意味は何ですか？",
+        options: ["Sorry", "Thank you", "Excuse me", "You're welcome"],
+        correct: 1
+      },
+      {
+        question: "「すみません」の意味は何ですか？",
+        options: ["Thank you", "Good bye", "Excuse me", "Hello"],
+        correct: 2
+      },
+      {
+        question: "「学校」の読み方は何ですか？",
+        options: ["がっこう", "がくこう", "かっこう", "かくこう"],
+        correct: 0
+      },
+      {
+        question: "「食べる」の意味は何ですか？",
+        options: ["to drink", "to eat", "to sleep", "to walk"],
+        correct: 1
+      },
+      {
+        question: "「今日」の読み方は何ですか？",
+        options: ["きょう", "こんにち", "いまひ", "きょうじつ"],
+        correct: 0
+      },
+      {
+        question: "「私は学生です」の英語の意味は何ですか？",
+        options: ["I am a teacher", "I am a student", "I am a doctor", "I am a worker"],
+        correct: 1
+      },
+      {
+        question: "「本」の読み方は何ですか？",
+        options: ["ほん", "もと", "べん", "ぽん"],
+        correct: 0
+      },
+      {
+        question: "「水」の読み方は何ですか？",
+        options: ["すい", "みず", "しお", "ゆき"],
+        correct: 1
+      },
+      {
+        question: "「行く」の意味は何ですか？",
+        options: ["to come", "to go", "to return", "to stay"],
+        correct: 1
+      }
+    ];
+
+    let currentQuestion = 0;
+    let score = 0;
+    let answers = [];
+    let timer;
+    let timeLeft = 7200; // 120 minutes in seconds
+
+    const startButton = document.getElementById('start-button');
+    const timerElement = document.getElementById('timer');
+    const quizElement = document.getElementById('quiz');
+    const questionNumberElement = document.getElementById('question-number');
+    const questionTextElement = document.getElementById('question-text');
+    const optionsElement = document.getElementById('options');
+    const nextButton = document.getElementById('next-button');
+    const resultElement = document.getElementById('result');
+    const correctElement = document.getElementById('correct');
+    const incorrectElement = document.getElementById('incorrect');
+    const scoreElement = document.getElementById('score');
+    const detailsElement = document.getElementById('details');
+    const restartButton = document.getElementById('restart-button');
+
+    startButton.addEventListener('click', startTest);
+    nextButton.addEventListener('click', nextQuestion);
+    restartButton.addEventListener('click', restartTest);
+
+    function startTest() {
+      startButton.style.display = 'none';
+      timerElement.style.display = 'block';
+      quizElement.style.display = 'block';
+      
+      startTimer();
+      showQuestion();
+    }
+
+    function startTimer() {
+      timer = setInterval(() => {
+        timeLeft--;
+        const minutes = Math.floor(timeLeft / 60);
+        const seconds = timeLeft % 60;
+        timerElement.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+        
+        if (timeLeft <= 0) {
+          clearInterval(timer);
+          endTest();
+        }
+      }, 1000);
+    }
+
+    function showQuestion() {
+      const question = questions[currentQuestion];
+      questionNumberElement.textContent = `問題 ${currentQuestion + 1} / ${questions.length}`;
+      questionTextElement.textContent = question.question;
+      
+      optionsElement.innerHTML = '';
+      question.options.forEach((option, index) => {
+        const optionElement = document.createElement('div');
+        optionElement.className = 'option';
+        optionElement.textContent = `${index + 1}. ${option}`;
+        optionElement.addEventListener('click', () => selectOption(index));
+        optionsElement.appendChild(optionElement);
+      });
+      
+      nextButton.style.display = 'none';
+    }
+
+    function selectOption(selectedIndex) {
+      const options = document.querySelectorAll('.option');
+      options.forEach(option => option.classList.remove('selected'));
+      options[selectedIndex].classList.add('selected');
+      
+      answers[currentQuestion] = selectedIndex;
+      nextButton.style.display = 'block';
+    }
+
+    function nextQuestion() {
+      currentQuestion++;
+      if (currentQuestion < questions.length) {
+        showQuestion();
+      } else {
+        endTest();
+      }
+    }
+
+    function endTest() {
+      clearInterval(timer);
+      timerElement.style.display = 'none';
+      quizElement.style.display = 'none';
+      resultElement.style.display = 'block';
+      
+      calculateScore();
+      showResults();
+    }
+
+    function calculateScore() {
+      score = 0;
+      answers.forEach((answer, index) => {
+        if (answer === questions[index].correct) {
+          score++;
+        }
+      });
+    }
+
+    function showResults() {
+      const correct = score;
+      const incorrect = questions.length - score;
+      const percentage = Math.round((score / questions.length) * 100);
+      
+      correctElement.textContent = correct;
+      incorrectElement.textContent = incorrect;
+      scoreElement.textContent = percentage;
+      
+      // Show detailed results
+      let detailsHTML = '<h3>詳細結果 (Detailed Results)</h3>';
+      questions.forEach((question, index) => {
+        const userAnswer = answers[index];
+        const isCorrect = userAnswer === question.correct;
+        
+        detailsHTML += `
+          <div style="margin: 10px 0; padding: 10px; border-left: 4px solid ${isCorrect ? '#4CAF50' : '#f44336'};">
+            <strong>問題 ${index + 1}:</strong> ${question.question}<br>
+            <strong>あなたの答え:</strong> ${userAnswer !== undefined ? question.options[userAnswer] : '未回答'}<br>
+            <strong>正解:</strong> ${question.options[question.correct]}<br>
+            <strong>結果:</strong> <span class="${isCorrect ? 'correct' : 'incorrect'}">${isCorrect ? '正解' : '不正解'}</span>
+          </div>
+        `;
+      });
+      
+      detailsElement.innerHTML = detailsHTML;
+    }
+
+    function restartTest() {
+      currentQuestion = 0;
+      score = 0;
+      answers = [];
+      timeLeft = 7200;
+      
+      resultElement.style.display = 'none';
+      startButton.style.display = 'inline-block';
+    }
+  </script>
+
 </body>
 </html>
