@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JLPT N5 Practice Test</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>JLPT N5 Practice Test by Sengoku Daimyou</h1>
+            <p class="subtitle">Japanese Language Proficiency Test - Level N5</p>
+        </header>
+
+        <div id="intro-screen" class="screen">
+            <div class="intro-content">
+                <h2>Test Instructions</h2>
+                <div class="instructions">
+                    <p>This test consists of 200 questions randomly selected from our N5 question bank.</p>
+                    <p><strong>Test Sections:</strong></p>
+                    <ul>
+                        <li>Kanji Reading (40 questions)</li>
+                        <li>Grammar (60 questions)</li>
+                        <li>Verbs Conjugation (40 questions)</li>
+                        <li>Adverbs (20 questions)</li>
+                        <li>Reading Comprehension (40 questions)</li>
+                    </ul>
+                    <p><strong>Time Limit:</strong> 2 hours (120 minutes)</p>
+                    <p><strong>Instructions:</strong></p>
+                    <ol>
+                        <li>Read each question carefully.</li>
+                        <li>Select the best answer for each question.</li>
+                        <li>You can skip questions and return to them later.</li>
+                        <li>The test will automatically submit when time expires.</li>
+                    </ol>
+                    <div class="time-warning">
+                        <p>⚠️ The test cannot be paused once started. Make sure you have enough time to complete it.</p>
+                    </div>
+                </div>
+                <button id="start-test" class="btn">Start Test</button>
+            </div>
+        </div>
+
+        <div id="test-screen" class="screen hidden">
+            <div class="test-header">
+                <div class="test-info">
+                    <span id="current-question">1</span> of <span id="total-questions">200</span>
+                </div>
+                <div class="timer">
+                    <span id="time-remaining">02:00:00</span>
+                </div>
+                <div class="progress-container">
+                    <div id="progress-bar" class="progress-bar"></div>
+                </div>
+            </div>
+
+            <div class="question-container">
+                <div id="question-text" class="question-text"></div>
+                <div id="options-container" class="options-container"></div>
+            </div>
+
+            <div class="navigation-buttons">
+                <button id="prev-btn" class="nav-btn" disabled>Previous</button>
+                <button id="next-btn" class="nav-btn">Next</button>
+                <button id="submit-btn" class="nav-btn submit-btn">Submit Test</button>
+            </div>
+        </div>
+
+        <div id="results-screen" class="screen hidden">
+            <div class="results-content">
+                <h2>Test Results</h2>
+                <div class="score-display">
+                    <div class="score-circle">
+                        <span id="percentage-score">0</span>%
+                    </div>
+                    <div class="score-text">
+                        <p>You scored <span id="correct-answers">0</span> out of <span id="total-answered">200</span></p>
+                        <p id="pass-fail" class="fail-text">Did not pass</p>
+                    </div>
+                </div>
+
+                <div class="section-breakdown">
+                    <h3>Section Breakdown</h3>
+                    <div class="breakdown-grid">
+                        <div class="breakdown-item">
+                            <div class="breakdown-label">Kanji Reading</div>
+                            <div class="breakdown-bar">
+                                <div id="kanji-bar" class="bar-fill" style="width: 0%"></div>
+                            </div>
+                            <div id="kanji-score" class="breakdown-score">0/40</div>
+                        </div>
+                        <div class="breakdown-item">
+                            <div class="breakdown-label">Grammar</div>
+                            <div class="breakdown-bar">
+                                <div id="grammar-bar" class="bar-fill" style="width: 0%"></div>
+                            </div>
+                            <div id="grammar-score" class="breakdown-score">0/60</div>
+                        </div>
+                        <div class="breakdown-item">
+                            <div class="breakdown-label">Verbs</div>
+                            <div class="breakdown-bar">
+                                <div id="verbs-bar" class="bar-fill" style="width: 0%"></div>
+                            </div>
+                            <div id="verbs-score" class="breakdown-score">0/40</div>
+                        </div>
+                        <div class="breakdown-item">
+                            <div class="breakdown-label">Adverbs</div>
+                            <div class="breakdown-bar">
+                                <div id="adverbs-bar" class="bar-fill" style="width: 0%"></div>
+                            </div>
+                            <div id="adverbs-score" class="breakdown-score">0/20</div>
+                        </div>
+                        <div class="breakdown-item">
+                            <div class="breakdown-label">Reading</div>
+                            <div class="breakdown-bar">
+                                <div id="reading-bar" class="bar-fill" style="width: 0%"></div>
+                            </div>
+                            <div id="reading-score" class="breakdown-score">0/40</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="feedback-section">
+                    <h3>Performance Feedback</h3>
+                    <div id="feedback-text" class="feedback-text">
+                        <!-- Dynamic feedback will be inserted here -->
+                    </div>
+                </div>
+
+                <div class="action-buttons">
+                    <button id="review-btn" class="btn">Review Answers</button>
+                    <button id="retake-btn" class="btn">Retake Test</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="review-screen" class="screen hidden">
+            <div class="review-header">
+                <h2>Answer Review</h2>
+                <button id="back-to-results" class="btn">Back to Results</button>
+            </div>
+            <div id="review-questions-container" class="review-questions-container">
+                <!-- Questions with answers will be inserted here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
